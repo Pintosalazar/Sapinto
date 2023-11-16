@@ -101,7 +101,7 @@
     ],
     "servers": [
       {
-        "address": "1.1.1.1:53",
+        "address": "1.0.0.1:53",
         "address_resolver": "direct-dns",
         "strategy": "prefer_ipv4",
         "tag": "remote-dns"
@@ -129,7 +129,7 @@
     {
       "listen": "0.0.0.0",
       "listen_port": 6450,
-      "override_address": "8.8.8.8",
+      "override_address": "8.8.4.4",
       "override_port": 53,
       "tag": "dns-in",
       "type": "direct"
