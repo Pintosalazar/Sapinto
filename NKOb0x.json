@@ -4,29 +4,55 @@
     "rules": [
       {
         "domain_suffix": [
-          "dns3.nufilter.store",
-          "dns3.nufilter.store",
-          "channel.zedmodeon.lat",
-          "joinbedin.zedmodeon.lat",
-          "joinbedin.zedmodeon.lat",
-          "dns1.nufilter.store",
-          "wancloudfa.ddns.net",
-          "faav-join.outline-vpn.cloud",
-          "join.v2raytz.sbs",
-          "h2m.judyabbott.life",
-          "blogc.samnet.pw",
-          "puni-shopv2ray.ddns.net",
+          "all.alpha1.skin",
+          "tajwidquran5.xyz",
+          "www.taghato.net",
+          "abortion.eu",
+          "jainworld.com",
+          "mci.cdn-arvancloud.space",
+          "recitequran09.xyz",
+          "srv1.helixservers.space",
+          "dns8.nufilter.store",
+          "admin.kanal-tel-nufilter.store",
+          "teso.kanal-tel-nufilter.store",
+          "shadowsocks.org",
+          "homsquran1.xyz",
+          "tanzilquran18.xyz",
+          "dns8.nufilter.store",
+          "sunnaquran05.xyz",
+          "tajwidquran15.xyz",
+          "all.alpha1.skin",
+          "mci.alpha1.skin",
+          "mtn.alpha1.skin",
+          "def.irimcs.org",
+          "abortion.eu",
+          "www.fhi360.org",
+          "dn42.dev",
+          "jainworld.com",
+          "hudoodquran19.xyz",
+          "srv1.helixservers.space",
+          "pol.melov2ray.shop",
+          "tgju.org",
+          "zula.ir",
+          "admin.kanal-tel-nufilter.store",
+          "dns5.nufilter.store",
+          "teso.kanal-tel-nufilter.store",
+          "shadowsocks.org",
+          "kolektiva.social",
+          "w1.sylar8.eu.org",
+          "mmtt.maznet.cf",
+          "mmaa.maznet.cf",
           "mtn.vpnprosec.com",
-          "free.mat1o.xyz",
-          "uk.blackvpn.sbs",
-          "foxray.makup.top",
-          "zula.ir",
-          "kashk.kanal-tel-nufilter.store",
-          "amphetamines.com",
-          "all.v-2rayngvpn.cfd",
-          "canva.com",
-          "zula.ir",
-          "dn42.dev"
+          "mtn.vpnprosec.com",
+          "mtn.vpnprosec.com",
+          "1040-join.v2raytz.sbs",
+          "mmtt.maznet.cf",
+          "mmcc.maznet.cf",
+          "channel5.zedmodeon.lat",
+          "channel.zedmodeon.lat",
+          "channel.zedmodeon.lat",
+          "mmtt.maznet.cf",
+          "sourceforge.net"
         ],
         "server": "direct-dns",
         "disable_cache": false
@@ -71,8 +97,7 @@
       "domain_strategy": "",
       "endpoint_independent_nat": true,
       "inet4_address": [
-        "172.19.0.1/28",
-        "104.21.0.1/20
+        "172.19.0.1/28"
       ],
       "mtu": 9000,
       "sniff": true,
@@ -92,7 +117,7 @@
     }
   ],
   "log": {
-    "level": "none"
+    "level": "info"
   },
   "outbounds": [
     {
@@ -101,42 +126,105 @@
       "outbounds": [
         "Best Latency",
         "t.me/ConfigsHub%60",
-        "%D8%B5%D8%A8%D8%AD",
-        "462%F0%9F%8C%9F%F0%9F%92%8E%F0%9F%87%AC%F0%9F%87%A7",
-        "462%F0%9F%8C%9F%F0%9F%92%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B9",
-        "462%F0%9F%8C%9F%F0%9F%92%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B2",
+        "Telegram%20:%20@Alpha_Vpn_3%60",
+        "%F0%9F%AB%A7+Telegram+++|+++@ArgoVPN_one",
+        "GRPC+%E2%98%86+@NUFiLTER",
+        "GRPc2+%E2%98%86+@NUFiLTER%60",
+        "%D8%B2%D9%86%D8%A8%D9%88%D8%B1+%D8%B9%D8%B3%D9%842",
         "t.me/ConfigsHub%60 2",
-        "%F0%9F%87%AB%F0%9F%87%AE+@FreakConfig%60",
-        "@IR_ProxyV2ray+|+All++%F0%9F%87%A9%F0%9F%87%AA+%D8%A8%D8%B1%D8%A7%DB%8C+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF+%D8%A8%DB%8C%D8%A7+%D8%AA%D9%88+%DA%A9%D8%A7%D9%86%D8%A7%D9%84%60%60",
-        "TED+70+ID(@Outline_Vpn)",
-        "%F0%9F%87%AF%F0%9F%87%B5Japan%60",
-        "[%F0%9F%87%A8%F0%9F%87%A6]+%E2%9E%A0+@V2RayTz+-+All+|+22331%60",
+        "@V2rayngalphagamer+|+@V2rayNGalpha+%D8%A7%DA%AF%D8%B1+%D9%82%D8%B7%D8%B9+%D8%B4%D8%AF%DB%8C+%D8%A8%DB%8C%D8%A7+%D8%A7%DB%8C%D9%86%D8%AC%D8%A7%60",
         "t.me/ConfigsHub%60 3",
-        "@servermomo%F0%9F%87%B8%F0%9F%87%AA%60",
-        "@servermomo%F0%9F%87%AC%F0%9F%87%A7%60",
-        "@V2RAYVlP-link4++%F0%9F%87%AB%F0%9F%87%AE",
+        "%E2%9D%A3%EF%B8%8F%60",
+        "%F0%9F%96%A4",
+        "%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
         "t.me/ConfigsHub%60 4",
-        "53%E2%9C%8At.me/vPlusVPN_FREE%60",
-        "all-@puni_shop_v2rayNG+|+unlimited%60%60",
-        "Finland",
-        "%F0%9F%87%A7%F0%9F%87%ADtelegram+%E2%9E%A0+@v2rayNG_Matsuri%60",
-        "%F0%9F%87%B5%F0%9F%87%BEtelegram+%E2%9E%A0+@v2rayNG_Matsuri",
-        "Telegram-channel:+@mainmat+%F0%9F%87%A9%F0%9F%87%AA",
+        "(@webrovers+)+%D9%85%D8%B9%D8%AA%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C%D9%86+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D9%81%D8%B1%D9%88%D8%B4+%D9%81%DB%8C%D9%84%D8%AA%D8%B1+%D8%B4%DA%A9%D9%86+%D9%87%D8%A7%DB%8C+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C",
+        "@V2rayngalphagamer+|+@V2rayNGalpha+%D8%A7%DA%AF%D8%B1+%D9%82%D8%B7%D8%B9+%D8%B4%D8%AF%DB%8C+%D8%A8%DB%8C%D8%A7+%D8%A7%DB%8C%D9%86%D8%AC%D8%A7%60 2",
+        "%F0%9F%87%BA%F0%9F%87%B8|US|%E7%BE%8E%E5%9B%BD|@wxgqlfx|184",
+        "%E2%9D%A3%EF%B8%8F",
+        "%F0%9F%87%AF%F0%9F%87%B5telegram+%E2%9E%A0+@mehrosaboran%60",
+        "@NETMelliAnti%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF+%D8%AF%D8%A7%D8%AE%D9%84+%DA%86%D9%86%D9%84%F0%9F%A5%80%E2%9D%A4",
         "t.me/ConfigsHub%60 5",
-        "@lrnbymaa%60**",
-        "4%E2%9C%8At.me/vPlusVPN_FREE%60",
-        "%E2%AD%955@oneclickvpnkeys",
-        "%F0%9F%87%AB%F0%9F%87%AE+V2RayyNGvpn+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D9%85%D8%A7+%D8%AF%D8%B1+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%F0%9F%87%AB%F0%9F%87%AE%60",
-        "A+72+ID(@Outline_Vpn)",
+        "%F0%9F%9A%80%F0%9F%87%A9%F0%9F%87%AA+Mahanvpn-Server1-mci3",
+        "Telegram%20:%20@Alpha_Vpn_3%60 2",
+        "Telegram%20:%20@Alpha_Vpn_3%60 3",
+        "Telegram%20:%20@Alpha_Vpn_3%60**",
+        "43%C3%A2%C5%93%C5%A0t.me/vPlusVPN_FREE%60",
+        "GRPc2+%E2%98%86+@NUFiLTER%60 2",
+        "%D8%B2%D9%86%D8%A8%D9%88%D8%B1+%D8%B9%D8%B3%D9%84",
+        "%D8%B2%D9%86%D8%A8%D9%88%D8%B1+%D8%B9%D8%B3%D9%843",
+        "%D8%B2%D9%86%D8%A8%D9%88%D8%B1+%D8%B9%D8%B3%D9%842 2",
         "t.me/ConfigsHub%60 6",
-        "@DoNaLD_VPN%60%60_MCI%60",
-        "%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%B4%D8%A7%D8%AA%D9%84+%D9%88%D8%A7%DB%8C%D9%81%D8%A7%60",
-        "@V2RAYROZ+|+%D9%87%D9%85%D9%87%60",
         "t.me/ConfigsHub%60 7",
-        "470%F0%9F%87%A9%F0%9F%87%AA%F0%9F%94%86%F0%9F%92%8E%C2%B3",
-        "@v2rayng_org%60",
         "t.me/ConfigsHub%60 8",
-        "%D8%AF%D9%88%D9%85%DB%8C"
+        "t.me/ConfigsHub%60 9",
+        "%F0%9F%92%9A%60",
+        "%F0%9F%96%A4 2",
+        "%F0%9F%A4%8D%60",
+        "%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5 2",
+        "%F0%9F%98%8E%F0%9F%98%8E-@vip_mod_chanel%60",
+        "t.me/ConfigsHub%60 10",
+        "t.me/ConfigsHub%60 11",
+        "nm2f0f1ml%60%60%60",
+        "nm2f0f1ml%60%60%60 2",
+        "t.me/@V2servers1+%F0%9F%92%99",
+        "Maznet-MTN-34372%60",
+        "Maznet-All-34372%60",
+        "@NETMelliAnti%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF+%D8%AF%D8%A7%D8%AE%D9%84+%DA%86%D9%86%D9%84%F0%9F%A5%80%E2%9D%A4%60",
+        "@NETMelliAnti%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF+%D8%AF%D8%A7%D8%AE%D9%84+%DA%86%D9%86%D9%84%F0%9F%A5%80%E2%9D%A4%60 2",
+        "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85",
+        "bolbolvpn-join-us%60",
+        "@Capoit%60",
+        "@Capoit%60 2",
+        "%F0%9F%87%A9%F0%9F%87%AA%20@VPNwedbaz%60",
+        "@Capoit%60 3",
+        "@Capoit%60 4",
+        "@V2RAYVlP-limk3++%F0%9F%87%AB%F0%9F%87%AE",
+        "@imperva_ssh",
+        "@imperva_ssh 2",
+        "@v2ray_napster_vpn+%D8%B3%D8%B1%D9%88%D8%B1+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%92%9B%60",
+        "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60",
+        "@funza+%DB%8C%DA%A9%D9%85%D8%A7%D9%87%D9%87%DB%B1%DB%B0%DB%B0%D8%AA%D9%88%D9%85%D9%86%60",
+        "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 2",
+        "Reality+1%60",
+        "Reality+2%60",
+        "@TEHRANARGO+IOS+ANDROID",
+        "@TEHRANARGO+IOS+ANDROID 2",
+        "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 3",
+        "@imperva_ssh 3",
+        "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 4",
+        "nm2f0f1ml%60%60%60 3",
+        "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 5",
+        "nm2f0f1ml%60%60%60 4",
+        "nm2f0f1ml%60%60%60 5",
+        "%F0%9F%87%A9%F0%9F%87%AA%20|%20@FreakConfig",
+        "%F0%9F%87%AB%F0%9F%87%AE%20|%20@FreakConfig%60",
+        "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 6",
+        "@V2RAYVlP-limk3++%F0%9F%87%AB%F0%9F%87%AE 2",
+        "Reality+1%60 2",
+        "Reality+2%60 2",
+        "[%F0%9F%87%A9%F0%9F%87%AA]+%E2%9E%A0+@V2RayTz+-+All+|+22511%60",
+        "Maznet-MTN-34372%60 2",
+        "Maznet-MCI-34372%60",
+        "510%F0%9F%8C%9F%F0%9F%92%8E%F0%9F%87%A9%F0%9F%87%AA",
+        "509%F0%9F%8C%9F%F0%9F%92%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B9",
+        "509%F0%9F%8C%9F%F0%9F%92%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B2",
+        "509%F0%9F%8C%9F%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%E2%80%8C%D8%B1%D8%A7%DB%8C%D8%AA%D9%84%E2%80%8C%D9%88%D8%A7%DB%8C%D9%81%D8%A7%DB%8C%F0%9F%92%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B9",
+        "@mehrosaboran%60",
+        "@mehrosaboran%60 2",
+        "@mehrosaboran%60 3",
+        "@mehrosaboran%60 4",
+        "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 7",
+        "%F0%9F%94%B92@oneclickvpnkeys",
+        "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 8",
+        "%F0%9F%8E%A5%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+PISHiserver@+%F0%9F%8C%90%F0%9F%90%88",
+        "Maznet-MTN-34372%60 3",
+        "%F0%9F%87%A9%F0%9F%87%AA%20@VPNwedbaz%60 2",
+        "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 9",
+        "@HosseinStore_Za%60",
+        "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 10",
+        "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 11",
+        "%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84:prrofile_purple@%E2%9C%85"
       ]
     },
     {
@@ -144,42 +232,105 @@
       "tag": "Best Latency",
       "outbounds": [
         "t.me/ConfigsHub%60",
-        "%D8%B5%D8%A8%D8%AD",
-        "462%F0%9F%8C%9F%F0%9F%92%8E%F0%9F%87%AC%F0%9F%87%A7",
-        "462%F0%9F%8C%9F%F0%9F%92%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B9",
-        "462%F0%9F%8C%9F%F0%9F%92%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B2",
+        "Telegram%20:%20@Alpha_Vpn_3%60",
+        "%F0%9F%AB%A7+Telegram+++|+++@ArgoVPN_one",
+        "GRPC+%E2%98%86+@NUFiLTER",
+        "GRPc2+%E2%98%86+@NUFiLTER%60",
+        "%D8%B2%D9%86%D8%A8%D9%88%D8%B1+%D8%B9%D8%B3%D9%842",
         "t.me/ConfigsHub%60 2",
-        "%F0%9F%87%AB%F0%9F%87%AE+@FreakConfig%60",
-        "@IR_ProxyV2ray+|+All++%F0%9F%87%A9%F0%9F%87%AA+%D8%A8%D8%B1%D8%A7%DB%8C+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF+%D8%A8%DB%8C%D8%A7+%D8%AA%D9%88+%DA%A9%D8%A7%D9%86%D8%A7%D9%84%60%60",
-        "TED+70+ID(@Outline_Vpn)",
-        "%F0%9F%87%AF%F0%9F%87%B5Japan%60",
-        "[%F0%9F%87%A8%F0%9F%87%A6]+%E2%9E%A0+@V2RayTz+-+All+|+22331%60",
+        "@V2rayngalphagamer+|+@V2rayNGalpha+%D8%A7%DA%AF%D8%B1+%D9%82%D8%B7%D8%B9+%D8%B4%D8%AF%DB%8C+%D8%A8%DB%8C%D8%A7+%D8%A7%DB%8C%D9%86%D8%AC%D8%A7%60",
         "t.me/ConfigsHub%60 3",
-        "@servermomo%F0%9F%87%B8%F0%9F%87%AA%60",
-        "@servermomo%F0%9F%87%AC%F0%9F%87%A7%60",
-        "@V2RAYVlP-link4++%F0%9F%87%AB%F0%9F%87%AE",
+        "%E2%9D%A3%EF%B8%8F%60",
+        "%F0%9F%96%A4",
+        "%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
         "t.me/ConfigsHub%60 4",
-        "53%E2%9C%8At.me/vPlusVPN_FREE%60",
-        "all-@puni_shop_v2rayNG+|+unlimited%60%60",
-        "Finland",
-        "%F0%9F%87%A7%F0%9F%87%ADtelegram+%E2%9E%A0+@v2rayNG_Matsuri%60",
-        "%F0%9F%87%B5%F0%9F%87%BEtelegram+%E2%9E%A0+@v2rayNG_Matsuri",
-        "Telegram-channel:+@mainmat+%F0%9F%87%A9%F0%9F%87%AA",
+        "(@webrovers+)+%D9%85%D8%B9%D8%AA%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C%D9%86+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D9%81%D8%B1%D9%88%D8%B4+%D9%81%DB%8C%D9%84%D8%AA%D8%B1+%D8%B4%DA%A9%D9%86+%D9%87%D8%A7%DB%8C+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C",
+        "@V2rayngalphagamer+|+@V2rayNGalpha+%D8%A7%DA%AF%D8%B1+%D9%82%D8%B7%D8%B9+%D8%B4%D8%AF%DB%8C+%D8%A8%DB%8C%D8%A7+%D8%A7%DB%8C%D9%86%D8%AC%D8%A7%60 2",
+        "%F0%9F%87%BA%F0%9F%87%B8|US|%E7%BE%8E%E5%9B%BD|@wxgqlfx|184",
+        "%E2%9D%A3%EF%B8%8F",
+        "%F0%9F%87%AF%F0%9F%87%B5telegram+%E2%9E%A0+@mehrosaboran%60",
+        "@NETMelliAnti%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF+%D8%AF%D8%A7%D8%AE%D9%84+%DA%86%D9%86%D9%84%F0%9F%A5%80%E2%9D%A4",
         "t.me/ConfigsHub%60 5",
-        "@lrnbymaa%60**",
-        "4%E2%9C%8At.me/vPlusVPN_FREE%60",
-        "%E2%AD%955@oneclickvpnkeys",
-        "%F0%9F%87%AB%F0%9F%87%AE+V2RayyNGvpn+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D9%85%D8%A7+%D8%AF%D8%B1+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%F0%9F%87%AB%F0%9F%87%AE%60",
-        "A+72+ID(@Outline_Vpn)",
+        "%F0%9F%9A%80%F0%9F%87%A9%F0%9F%87%AA+Mahanvpn-Server1-mci3",
+        "Telegram%20:%20@Alpha_Vpn_3%60 2",
+        "Telegram%20:%20@Alpha_Vpn_3%60 3",
+        "Telegram%20:%20@Alpha_Vpn_3%60**",
+        "43%C3%A2%C5%93%C5%A0t.me/vPlusVPN_FREE%60",
+        "GRPc2+%E2%98%86+@NUFiLTER%60 2",
+        "%D8%B2%D9%86%D8%A8%D9%88%D8%B1+%D8%B9%D8%B3%D9%84",
+        "%D8%B2%D9%86%D8%A8%D9%88%D8%B1+%D8%B9%D8%B3%D9%843",
+        "%D8%B2%D9%86%D8%A8%D9%88%D8%B1+%D8%B9%D8%B3%D9%842 2",
         "t.me/ConfigsHub%60 6",
-        "@DoNaLD_VPN%60%60_MCI%60",
-        "%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%B4%D8%A7%D8%AA%D9%84+%D9%88%D8%A7%DB%8C%D9%81%D8%A7%60",
-        "@V2RAYROZ+|+%D9%87%D9%85%D9%87%60",
         "t.me/ConfigsHub%60 7",
-        "470%F0%9F%87%A9%F0%9F%87%AA%F0%9F%94%86%F0%9F%92%8E%C2%B3",
-        "@v2rayng_org%60",
         "t.me/ConfigsHub%60 8",
-        "%D8%AF%D9%88%D9%85%DB%8C"
+        "t.me/ConfigsHub%60 9",
+        "%F0%9F%92%9A%60",
+        "%F0%9F%96%A4 2",
+        "%F0%9F%A4%8D%60",
+        "%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5 2",
+        "%F0%9F%98%8E%F0%9F%98%8E-@vip_mod_chanel%60",
+        "t.me/ConfigsHub%60 10",
+        "t.me/ConfigsHub%60 11",
+        "nm2f0f1ml%60%60%60",
+        "nm2f0f1ml%60%60%60 2",
+        "t.me/@V2servers1+%F0%9F%92%99",
+        "Maznet-MTN-34372%60",
+        "Maznet-All-34372%60",
+        "@NETMelliAnti%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF+%D8%AF%D8%A7%D8%AE%D9%84+%DA%86%D9%86%D9%84%F0%9F%A5%80%E2%9D%A4%60",
+        "@NETMelliAnti%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF+%D8%AF%D8%A7%D8%AE%D9%84+%DA%86%D9%86%D9%84%F0%9F%A5%80%E2%9D%A4%60 2",
+        "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85",
+        "bolbolvpn-join-us%60",
+        "@Capoit%60",
+        "@Capoit%60 2",
+        "%F0%9F%87%A9%F0%9F%87%AA%20@VPNwedbaz%60",
+        "@Capoit%60 3",
+        "@Capoit%60 4",
+        "@V2RAYVlP-limk3++%F0%9F%87%AB%F0%9F%87%AE",
+        "@imperva_ssh",
+        "@imperva_ssh 2",
+        "@v2ray_napster_vpn+%D8%B3%D8%B1%D9%88%D8%B1+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%92%9B%60",
+        "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60",
+        "@funza+%DB%8C%DA%A9%D9%85%D8%A7%D9%87%D9%87%DB%B1%DB%B0%DB%B0%D8%AA%D9%88%D9%85%D9%86%60",
+        "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 2",
+        "Reality+1%60",
+        "Reality+2%60",
+        "@TEHRANARGO+IOS+ANDROID",
+        "@TEHRANARGO+IOS+ANDROID 2",
+        "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 3",
+        "@imperva_ssh 3",
+        "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 4",
+        "nm2f0f1ml%60%60%60 3",
+        "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 5",
+        "nm2f0f1ml%60%60%60 4",
+        "nm2f0f1ml%60%60%60 5",
+        "%F0%9F%87%A9%F0%9F%87%AA%20|%20@FreakConfig",
+        "%F0%9F%87%AB%F0%9F%87%AE%20|%20@FreakConfig%60",
+        "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 6",
+        "@V2RAYVlP-limk3++%F0%9F%87%AB%F0%9F%87%AE 2",
+        "Reality+1%60 2",
+        "Reality+2%60 2",
+        "[%F0%9F%87%A9%F0%9F%87%AA]+%E2%9E%A0+@V2RayTz+-+All+|+22511%60",
+        "Maznet-MTN-34372%60 2",
+        "Maznet-MCI-34372%60",
+        "510%F0%9F%8C%9F%F0%9F%92%8E%F0%9F%87%A9%F0%9F%87%AA",
+        "509%F0%9F%8C%9F%F0%9F%92%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B9",
+        "509%F0%9F%8C%9F%F0%9F%92%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B2",
+        "509%F0%9F%8C%9F%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%E2%80%8C%D8%B1%D8%A7%DB%8C%D8%AA%D9%84%E2%80%8C%D9%88%D8%A7%DB%8C%D9%81%D8%A7%DB%8C%F0%9F%92%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B9",
+        "@mehrosaboran%60",
+        "@mehrosaboran%60 2",
+        "@mehrosaboran%60 3",
+        "@mehrosaboran%60 4",
+        "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 7",
+        "%F0%9F%94%B92@oneclickvpnkeys",
+        "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 8",
+        "%F0%9F%8E%A5%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+PISHiserver@+%F0%9F%8C%90%F0%9F%90%88",
+        "Maznet-MTN-34372%60 3",
+        "%F0%9F%87%A9%F0%9F%87%AA%20@VPNwedbaz%60 2",
+        "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 9",
+        "@HosseinStore_Za%60",
+        "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 10",
+        "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 11",
+        "%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84:prrofile_purple@%E2%9C%85"
       ],
       "url": "https://detectportal.firefox.com/success.txt",
       "interval": "1m0s"
@@ -187,9 +338,9 @@
     {
       "tag": "t.me/ConfigsHub%60",
       "type": "vless",
-      "server": "dns3.nufilter.store",
-      "server_port": 8443,
-      "uuid": "9c46957b-688b-451c-9d10-4663f7e7dfdc",
+      "server": "104.21.63.160",
+      "server_port": 2053,
+      "uuid": "9b11a198-d26c-4586-aeab-0ad6c6b565cd",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -199,7 +350,7 @@
       },
       "tls": {
         "enabled": true,
-        "server_name": "f.kanal-tel-nufilter.site",
+        "server_name": "yek.kanal-tel-nufilter.store",
         "insecure": true,
         "disable_sni": false
       },
@@ -213,11 +364,321 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "%D8%B5%D8%A8%D8%AD",
+      "tag": "Telegram%20:%20@Alpha_Vpn_3%60",
       "type": "vless",
-      "server": "dns3.nufilter.store",
+      "server": "all.alpha1.skin",
+      "server_port": 2087,
+      "uuid": "b8db6749-1498-47d0-ad37-5f2c6a6c8e2f",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "ch-60.alpha1.skin",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": null,
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%AB%A7+Telegram+++|+++@ArgoVPN_one",
+      "type": "vless",
+      "server": "tajwidquran5.xyz",
+      "server_port": 443,
+      "uuid": "962a733d-2614-0b9b-7ffe-9ac92ffea8eb",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": null,
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/current_time",
+        "headers": {
+          "Host": null
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "GRPC+%E2%98%86+@NUFiLTER",
+      "type": "vless",
+      "server": "www.taghato.net",
+      "server_port": 443,
+      "uuid": "96dd5eca-9b3d-490f-a456-3d4e89675d88",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "teso.kanal-tel-nufilter.store",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "GRPc2+%E2%98%86+@NUFiLTER%60",
+      "type": "vless",
+      "server": "abortion.eu",
+      "server_port": 443,
+      "uuid": "96dd5eca-9b3d-490f-a456-3d4e89675d88",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "teso.kanal-tel-nufilter.store",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%D8%B2%D9%86%D8%A8%D9%88%D8%B1+%D8%B9%D8%B3%D9%842",
+      "type": "vless",
+      "server": "jainworld.com",
+      "server_port": 443,
+      "uuid": "387c74c2-eb23-4a43-adfb-dd3d5428d73f",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "godzila.kanal-tel-nufilter.store",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "t.me/ConfigsHub%60 2",
+      "type": "vless",
+      "server": "mci.cdn-arvancloud.space",
+      "server_port": 80,
+      "uuid": "63a79ffb-e6b7-4db7-aae6-9634020d7df5",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "S18Qmo.miCrOSoFTs.DOWNlOAd"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "@V2rayngalphagamer+|+@V2rayNGalpha+%D8%A7%DA%AF%D8%B1+%D9%82%D8%B7%D8%B9+%D8%B4%D8%AF%DB%8C+%D8%A8%DB%8C%D8%A7+%D8%A7%DB%8C%D9%86%D8%AC%D8%A7%60",
+      "type": "vless",
+      "server": "recitequran09.xyz",
+      "server_port": 443,
+      "uuid": "962a733d-2614-0b9b-7ffe-9ac92ffea8eb",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": null,
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/current_time",
+        "headers": {
+          "Host": null
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "t.me/ConfigsHub%60 3",
+      "type": "vless",
+      "server": "srv1.helixservers.space",
+      "server_port": 2087,
+      "uuid": "6ff459a7-3355-43f1-a005-76ab67d79368",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "Helix-1.Mahoraga.Space",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%E2%9D%A3%EF%B8%8F%60",
+      "type": "vless",
+      "server": "dns8.nufilter.store",
+      "server_port": 443,
+      "uuid": "7f99da38-1333-4a8e-abf1-9ecd951b9365",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "jomong.kanal-tel-nufilter.store",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%96%A4",
+      "type": "vless",
+      "server": "admin.kanal-tel-nufilter.store",
+      "server_port": 8443,
+      "uuid": "06992dbe-47f0-45d7-ee77-03ce7132fa69",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.kanal-tel-nufilter.store",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+      "type": "vless",
+      "server": "teso.kanal-tel-nufilter.store",
+      "server_port": 8443,
+      "uuid": "579b60a3-a476-400d-aeff-3c08aa364c30",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "teso.kanal-tel-nufilter.store",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER",
+        "headers": {
+          "Host": "teso.kanal-tel-nufilter.store"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "t.me/ConfigsHub%60 4",
+      "type": "vless",
+      "server": "shadowsocks.org",
       "server_port": 2053,
-      "uuid": "f2eb0744-2da2-4b45-e4c1-c38e505d8901",
+      "uuid": "1d51bbb5-767d-4554-bebe-7a0d8167026e",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -241,11 +702,35 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "462%F0%9F%8C%9F%F0%9F%92%8E%F0%9F%87%AC%F0%9F%87%A7",
+      "tag": "(@webrovers+)+%D9%85%D8%B9%D8%AA%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C%D9%86+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D9%81%D8%B1%D9%88%D8%B4+%D9%81%DB%8C%D9%84%D8%AA%D8%B1+%D8%B4%DA%A9%D9%86+%D9%87%D8%A7%DB%8C+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C",
       "type": "vless",
-      "server": "channel.zedmodeon.lat",
+      "server": "172.64.163.38",
+      "server_port": 2052,
+      "uuid": "0bfbe6be-fc76-4d62-bb7b-cf67feb41dec",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "Frev2ray",
+        "headers": {
+          "Host": "frev2raychannel.miox.sbs"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "@V2rayngalphagamer+|+@V2rayNGalpha+%D8%A7%DA%AF%D8%B1+%D9%82%D8%B7%D8%B9+%D8%B4%D8%AF%DB%8C+%D8%A8%DB%8C%D8%A7+%D8%A7%DB%8C%D9%86%D8%AC%D8%A7%60 2",
+      "type": "vless",
+      "server": "homsquran1.xyz",
       "server_port": 443,
-      "uuid": "6cb675cd-38b4-4b6a-a94a-f4f720b30254",
+      "uuid": "962a733d-2614-0b9b-7ffe-9ac92ffea8eb",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -255,13 +740,73 @@
       },
       "tls": {
         "enabled": true,
-        "server_name": "ukk.zedmodeon.lat",
+        "server_name": null,
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/current_time",
+        "headers": {
+          "Host": null
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%BA%F0%9F%87%B8|US|%E7%BE%8E%E5%9B%BD|@wxgqlfx|184",
+      "type": "vless",
+      "server": "tanzilquran18.xyz",
+      "server_port": 443,
+      "uuid": "962a733d-2614-0b9b-7ffe-9ac92ffea8eb",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": null,
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/current_time",
+        "headers": {
+          "Host": null
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%E2%9D%A3%EF%B8%8F",
+      "type": "vless",
+      "server": "dns8.nufilter.store",
+      "server_port": 443,
+      "uuid": "7f99da38-1333-4a8e-abf1-9ecd951b9365",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "jomong.kanal-tel-nufilter.store",
         "insecure": true,
         "disable_sni": false
       },
       "transport": {
         "type": "grpc",
-        "service_name": "@ZEDMODEON",
+        "service_name": "Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER",
         "idle_timeout": "15s",
         "ping_timeout": "15s",
         "permit_without_stream": false
@@ -269,11 +814,1801 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "462%F0%9F%8C%9F%F0%9F%92%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B9",
+      "tag": "%F0%9F%87%AF%F0%9F%87%B5telegram+%E2%9E%A0+@mehrosaboran%60",
       "type": "vless",
-      "server": "joinbedin.zedmodeon.lat",
+      "server": "172.64.163.38",
+      "server_port": 2052,
+      "uuid": "0bfbe6be-fc76-4d62-bb7b-cf67feb41dec",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "Frev2ray",
+        "headers": {
+          "Host": "frev2raychannel.miox.sbs"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "@NETMelliAnti%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF+%D8%AF%D8%A7%D8%AE%D9%84+%DA%86%D9%86%D9%84%F0%9F%A5%80%E2%9D%A4",
+      "type": "vless",
+      "server": "sunnaquran05.xyz",
+      "server_port": 443,
+      "uuid": "962a733d-2614-0b9b-7ffe-9ac92ffea8eb",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": null,
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/current_time",
+        "headers": {
+          "Host": null
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "t.me/ConfigsHub%60 5",
+      "type": "vless",
+      "server": "tajwidquran15.xyz",
+      "server_port": 443,
+      "uuid": "962a733d-2614-0b9b-7ffe-9ac92ffea8eb",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": null,
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/current_time",
+        "headers": {
+          "Host": null
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%9A%80%F0%9F%87%A9%F0%9F%87%AA+Mahanvpn-Server1-mci3",
+      "type": "vless",
+      "server": "104.17.214.191",
+      "server_port": 2087,
+      "uuid": "_Mahanvpn",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "mahanteam.mahanmrz.top",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": null,
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "Telegram%20:%20@Alpha_Vpn_3%60 2",
+      "type": "vless",
+      "server": "all.alpha1.skin",
+      "server_port": 2087,
+      "uuid": "b8db6749-1498-47d0-ad37-5f2c6a6c8e2f",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "ch-60.alpha1.skin",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": null,
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "Telegram%20:%20@Alpha_Vpn_3%60 3",
+      "type": "vless",
+      "server": "mci.alpha1.skin",
+      "server_port": 2087,
+      "uuid": "b8db6749-1498-47d0-ad37-5f2c6a6c8e2f",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "ch-50.alpha1.skin",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": null,
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "Telegram%20:%20@Alpha_Vpn_3%60**",
+      "type": "vless",
+      "server": "mtn.alpha1.skin",
+      "server_port": 2087,
+      "uuid": "b8db6749-1498-47d0-ad37-5f2c6a6c8e2f",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "ch-40.alpha1.skin",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": null,
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "43%C3%A2%C5%93%C5%A0t.me/vPlusVPN_FREE%60",
+      "type": "vless",
+      "server": "def.irimcs.org",
+      "server_port": 2087,
+      "uuid": "1cab6d3e-8edf-4d0f-8df1-8a40b80e32ef",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@CatVpns",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "GRPc2+%E2%98%86+@NUFiLTER%60 2",
+      "type": "vless",
+      "server": "abortion.eu",
+      "server_port": 443,
+      "uuid": "96dd5eca-9b3d-490f-a456-3d4e89675d88",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "teso.kanal-tel-nufilter.store",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%D8%B2%D9%86%D8%A8%D9%88%D8%B1+%D8%B9%D8%B3%D9%84",
+      "type": "vless",
+      "server": "www.fhi360.org",
+      "server_port": 443,
+      "uuid": "387c74c2-eb23-4a43-adfb-dd3d5428d73f",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "godzila.kanal-tel-nufilter.store",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%D8%B2%D9%86%D8%A8%D9%88%D8%B1+%D8%B9%D8%B3%D9%843",
+      "type": "vless",
+      "server": "dn42.dev",
+      "server_port": 443,
+      "uuid": "387c74c2-eb23-4a43-adfb-dd3d5428d73f",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "godzila.kanal-tel-nufilter.store",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%D8%B2%D9%86%D8%A8%D9%88%D8%B1+%D8%B9%D8%B3%D9%842 2",
+      "type": "vless",
+      "server": "jainworld.com",
+      "server_port": 443,
+      "uuid": "387c74c2-eb23-4a43-adfb-dd3d5428d73f",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "godzila.kanal-tel-nufilter.store",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "t.me/ConfigsHub%60 6",
+      "type": "vless",
+      "server": "hudoodquran19.xyz",
+      "server_port": 443,
+      "uuid": "962a733d-2614-0b9b-7ffe-9ac92ffea8eb",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": null,
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/current_time",
+        "headers": {
+          "Host": null
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "t.me/ConfigsHub%60 7",
+      "type": "vless",
+      "server": "srv1.helixservers.space",
+      "server_port": 2087,
+      "uuid": "6ff459a7-3355-43f1-a005-76ab67d79368",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "Helix-1.Mahoraga.Space",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "t.me/ConfigsHub%60 8",
+      "type": "vless",
+      "server": "pol.melov2ray.shop",
+      "server_port": 2087,
+      "uuid": "3d989758-2ba5-4941-852c-831d0b95f838",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "Pol.Melov2ray.Shop",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@melov2ray",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "t.me/ConfigsHub%60 9",
+      "type": "vless",
+      "server": "tgju.org",
+      "server_port": 2087,
+      "uuid": "3d989758-2ba5-4941-852c-831d0b95f838",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "Pol.Melov2ray.Shop",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@melov2ray",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%92%9A%60",
+      "type": "vless",
+      "server": "zula.ir",
+      "server_port": 8443,
+      "uuid": "ba45bd6b-7e12-4a80-9cdf-63ab4d099f90",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "jomong.kanal-tel-nufilter.store",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER",
+        "headers": {
+          "Host": "jomong.kanal-tel-nufilter.store"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%96%A4 2",
+      "type": "vless",
+      "server": "admin.kanal-tel-nufilter.store",
+      "server_port": 8443,
+      "uuid": "06992dbe-47f0-45d7-ee77-03ce7132fa69",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.kanal-tel-nufilter.store",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%A4%8D%60",
+      "type": "vless",
+      "server": "dns5.nufilter.store",
+      "server_port": 8443,
+      "uuid": "23d42a2d-21ea-435a-cc26-f91e15f1ab21",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "mast.kanal-tel-nufilter.site",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5 2",
+      "type": "vless",
+      "server": "teso.kanal-tel-nufilter.store",
+      "server_port": 8443,
+      "uuid": "579b60a3-a476-400d-aeff-3c08aa364c30",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "teso.kanal-tel-nufilter.store",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER",
+        "headers": {
+          "Host": "teso.kanal-tel-nufilter.store"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%98%8E%F0%9F%98%8E-@vip_mod_chanel%60",
+      "type": "vless",
+      "server": "104.25.254.88",
+      "server_port": 443,
+      "uuid": "ab206d21-b3a8-4bb3-aa3f-4167152fb494",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "jigar1ssl.vmhkh.site",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "تلگرام سازنده@vip_mod_chanel : چنل تلگرام سازنده@vip_mod_chanel : چنل تلگرام سازنده@vip_mod_chanel : چنل تلگرام سازنده@vip_mod_chanel : چنل تلگرام سازنده@vip_mod_chanel : چنل تلگرام سازنده@vip_mod_chanel : چنل تلگرام سازنده@vip_mod_chanel",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "t.me/ConfigsHub%60 10",
+      "type": "vless",
+      "server": "shadowsocks.org",
       "server_port": 2053,
-      "uuid": "9ab83499-f19a-4172-bcf9-6ac538ab2dee",
+      "uuid": "1d51bbb5-767d-4554-bebe-7a0d8167026e",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "asal.nufilter.store",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "t.me/ConfigsHub%60 11",
+      "type": "vless",
+      "server": "kolektiva.social",
+      "server_port": 2053,
+      "uuid": "1d51bbb5-767d-4554-bebe-7a0d8167026e",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "asal.nufilter.store",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "nm2f0f1ml%60%60%60",
+      "type": "vless",
+      "server": "65.20.107.57",
+      "server_port": 27144,
+      "uuid": "9e83c54a-5021-4f06-dbcb-a27629dcf704",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": null,
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "nm2f0f1ml%60%60%60 2",
+      "type": "vless",
+      "server": "65.20.107.57",
+      "server_port": 27144,
+      "uuid": "9e83c54a-5021-4f06-dbcb-a27629dcf704",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": null,
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "t.me/@V2servers1+%F0%9F%92%99",
+      "type": "vless",
+      "server": "w1.sylar8.eu.org",
+      "server_port": 443,
+      "uuid": "29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "w1.sylar8.eu.org",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "w1.sylar8.eu.org"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "Maznet-MTN-34372%60",
+      "type": "vless",
+      "server": "mmtt.maznet.cf",
+      "server_port": 8443,
+      "uuid": "ca010272-d8eb-4ff1-842c-c95fba4eebe6",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "join2.maznet.cfd",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "Maznet-All-34372%60",
+      "type": "vless",
+      "server": "mmaa.maznet.cf",
+      "server_port": 443,
+      "uuid": "ebc4bee7-1c28-4d4d-ac9d-072821144b67",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "join2.maznet.cfd",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "@NETMelliAnti%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF+%D8%AF%D8%A7%D8%AE%D9%84+%DA%86%D9%86%D9%84%F0%9F%A5%80%E2%9D%A4%60",
+      "type": "vless",
+      "server": "65.20.107.57",
+      "server_port": 27144,
+      "uuid": "9e83c54a-5021-4f06-dbcb-a27629dcf704",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": null,
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "@NETMelliAnti%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF+%D8%AF%D8%A7%D8%AE%D9%84+%DA%86%D9%86%D9%84%F0%9F%A5%80%E2%9D%A4%60 2",
+      "type": "vless",
+      "server": "65.20.107.57",
+      "server_port": 27144,
+      "uuid": "9e83c54a-5021-4f06-dbcb-a27629dcf704",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": null,
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85",
+      "type": "vless",
+      "server": "195.201.6.238",
+      "server_port": 443,
+      "uuid": "e03d738b-8592-4a80-b235-211b1d701d28",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "greenpepper.ir",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@VPNwedbaz",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "bolbolvpn-join-us%60",
+      "type": "vless",
+      "server": "104.31.16.242",
+      "server_port": 443,
+      "uuid": "25605c40-6c35-4795-8a66-65645fc8a9b6",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "bolbolvpn-join-us.la-la-ante.sbs",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "bolbolvpn-join-us.la-la-ante.sbs"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "@Capoit%60",
+      "type": "vless",
+      "server": "78.47.67.130",
+      "server_port": 443,
+      "uuid": "766fd032-c88c-4737-9d0c-d22d4bf691c2",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "greenpepper.ir",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@ipV2Ray",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "@Capoit%60 2",
+      "type": "vless",
+      "server": "65.108.244.106",
+      "server_port": 443,
+      "uuid": "a0562dec-26ac-43d4-ba1d-785c334e644f",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "greenpepper.ir",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@ipV2Ray",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A9%F0%9F%87%AA%20@VPNwedbaz%60",
+      "type": "vless",
+      "server": "195.201.6.238",
+      "server_port": 443,
+      "uuid": "e03d738b-8592-4a80-b235-211b1d701d28",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "greenpepper.ir",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@VPNwedbaz",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "@Capoit%60 3",
+      "type": "vless",
+      "server": "78.47.67.130",
+      "server_port": 443,
+      "uuid": "766fd032-c88c-4737-9d0c-d22d4bf691c2",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "greenpepper.ir",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@ipV2Ray",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "@Capoit%60 4",
+      "type": "vless",
+      "server": "65.108.244.106",
+      "server_port": 443,
+      "uuid": "a0562dec-26ac-43d4-ba1d-785c334e644f",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "greenpepper.ir",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@ipV2Ray",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "@V2RAYVlP-limk3++%F0%9F%87%AB%F0%9F%87%AE",
+      "type": "vless",
+      "server": "104.16.2.136",
+      "server_port": 80,
+      "uuid": "2a7bfdf5-8d03-400b-a77e-1e5f3283c44f",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "bia-to-channel4.unlimiteddev.shop"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "@imperva_ssh",
+      "type": "vless",
+      "server": "mtn.vpnprosec.com",
+      "server_port": 2087,
+      "uuid": "SvnTeam",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "Grm.gelofenshop.online",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": null,
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "@imperva_ssh 2",
+      "type": "vless",
+      "server": "mtn.vpnprosec.com",
+      "server_port": 2087,
+      "uuid": "SvnTeam",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "Grm.gelofenshop.online",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": null,
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "@v2ray_napster_vpn+%D8%B3%D8%B1%D9%88%D8%B1+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%92%9B%60",
+      "type": "vless",
+      "server": "104.16.45.12",
+      "server_port": 443,
+      "uuid": "60813b9d-aa0e-4a5c-88b8-ed231058e82a",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "pages.20230619.love",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "pages.20230619.love"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60",
+      "type": "vless",
+      "server": "195.201.6.238",
+      "server_port": 443,
+      "uuid": "e03d738b-8592-4a80-b235-211b1d701d28",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "greenpepper.ir",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@VPNwedbaz",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "@funza+%DB%8C%DA%A9%D9%85%D8%A7%D9%87%D9%87%DB%B1%DB%B0%DB%B0%D8%AA%D9%88%D9%85%D9%86%60",
+      "type": "vless",
+      "server": "78.47.225.52",
+      "server_port": 5062,
+      "uuid": "f832b600-786b-44ed-9756-f476d82f4392",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "--------telegram:funza--------telegram:funza--------telegram:funza--------telegram:funza--------telegram:funza--------telegram:funza--------telegram:funza--------telegram:funza--------telegram:funza",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 2",
+      "type": "vless",
+      "server": "195.201.6.238",
+      "server_port": 443,
+      "uuid": "e03d738b-8592-4a80-b235-211b1d701d28",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "greenpepper.ir",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@VPNwedbaz",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "Reality+1%60",
+      "type": "vless",
+      "server": "78.47.67.130",
+      "server_port": 443,
+      "uuid": "766fd032-c88c-4737-9d0c-d22d4bf691c2",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "greenpepper.ir",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@ipV2Ray",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "Reality+2%60",
+      "type": "vless",
+      "server": "65.108.244.106",
+      "server_port": 443,
+      "uuid": "a0562dec-26ac-43d4-ba1d-785c334e644f",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "greenpepper.ir",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@ipV2Ray",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "@TEHRANARGO+IOS+ANDROID",
+      "type": "vless",
+      "server": "104.20.156.248",
+      "server_port": 2052,
+      "uuid": "0bfbe6be-fc76-4d62-bb7b-cf67feb41dec",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "Frev2ray",
+        "headers": {
+          "Host": "frev2raychannel.miox.sbs"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "@TEHRANARGO+IOS+ANDROID 2",
+      "type": "vless",
+      "server": "198.41.202.5",
+      "server_port": 2052,
+      "uuid": "0bfbe6be-fc76-4d62-bb7b-cf67feb41dec",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "Frev2ray",
+        "headers": {
+          "Host": "frev2raychannel.miox.sbs"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 3",
+      "type": "vless",
+      "server": "195.201.6.238",
+      "server_port": 443,
+      "uuid": "e03d738b-8592-4a80-b235-211b1d701d28",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "greenpepper.ir",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@VPNwedbaz",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "@imperva_ssh 3",
+      "type": "vless",
+      "server": "mtn.vpnprosec.com",
+      "server_port": 2087,
+      "uuid": "SvnTeam",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "Grm.gelofenshop.online",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": null,
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 4",
+      "type": "vless",
+      "server": "195.201.6.238",
+      "server_port": 443,
+      "uuid": "e03d738b-8592-4a80-b235-211b1d701d28",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "greenpepper.ir",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@VPNwedbaz",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "nm2f0f1ml%60%60%60 3",
+      "type": "vless",
+      "server": "65.20.107.57",
+      "server_port": 27144,
+      "uuid": "9e83c54a-5021-4f06-dbcb-a27629dcf704",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": null,
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 5",
+      "type": "vless",
+      "server": "195.201.6.238",
+      "server_port": 443,
+      "uuid": "e03d738b-8592-4a80-b235-211b1d701d28",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "greenpepper.ir",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@VPNwedbaz",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "nm2f0f1ml%60%60%60 4",
+      "type": "vless",
+      "server": "65.20.107.57",
+      "server_port": 27144,
+      "uuid": "9e83c54a-5021-4f06-dbcb-a27629dcf704",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": null,
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "nm2f0f1ml%60%60%60 5",
+      "type": "vless",
+      "server": "65.20.107.57",
+      "server_port": 27144,
+      "uuid": "9e83c54a-5021-4f06-dbcb-a27629dcf704",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": null,
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A9%F0%9F%87%AA%20|%20@FreakConfig",
+      "type": "vless",
+      "server": "78.47.67.130",
+      "server_port": 443,
+      "uuid": "766fd032-c88c-4737-9d0c-d22d4bf691c2",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "greenpepper.ir",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@ipV2Ray",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%AB%F0%9F%87%AE%20|%20@FreakConfig%60",
+      "type": "vless",
+      "server": "65.108.244.106",
+      "server_port": 443,
+      "uuid": "a0562dec-26ac-43d4-ba1d-785c334e644f",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "greenpepper.ir",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@ipV2Ray",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 6",
+      "type": "vless",
+      "server": "195.201.6.238",
+      "server_port": 443,
+      "uuid": "e03d738b-8592-4a80-b235-211b1d701d28",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "greenpepper.ir",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@VPNwedbaz",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "@V2RAYVlP-limk3++%F0%9F%87%AB%F0%9F%87%AE 2",
+      "type": "vless",
+      "server": "104.16.2.136",
+      "server_port": 80,
+      "uuid": "2a7bfdf5-8d03-400b-a77e-1e5f3283c44f",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "bia-to-channel4.unlimiteddev.shop"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "Reality+1%60 2",
+      "type": "vless",
+      "server": "78.47.67.130",
+      "server_port": 443,
+      "uuid": "766fd032-c88c-4737-9d0c-d22d4bf691c2",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "greenpepper.ir",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@ipV2Ray",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "Reality+2%60 2",
+      "type": "vless",
+      "server": "65.108.244.106",
+      "server_port": 443,
+      "uuid": "a0562dec-26ac-43d4-ba1d-785c334e644f",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "greenpepper.ir",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@ipV2Ray",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "[%F0%9F%87%A9%F0%9F%87%AA]+%E2%9E%A0+@V2RayTz+-+All+|+22511%60",
+      "type": "vless",
+      "server": "1040-join.v2raytz.sbs",
+      "server_port": 443,
+      "uuid": "766fd032-c88c-4737-9d0c-d22d4bf691c2",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "greenpepper.ir",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@ipV2Ray",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "Maznet-MTN-34372%60 2",
+      "type": "vless",
+      "server": "mmtt.maznet.cf",
+      "server_port": 8443,
+      "uuid": "ca010272-d8eb-4ff1-842c-c95fba4eebe6",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "join2.maznet.cfd",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "Maznet-MCI-34372%60",
+      "type": "vless",
+      "server": "mmcc.maznet.cf",
+      "server_port": 2087,
+      "uuid": "dcc2054f-e539-4e28-a3ce-1aead607d9af",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "join2.maznet.cfd",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "510%F0%9F%8C%9F%F0%9F%92%8E%F0%9F%87%A9%F0%9F%87%AA",
+      "type": "vless",
+      "server": "195.201.6.238",
+      "server_port": 443,
+      "uuid": "e03d738b-8592-4a80-b235-211b1d701d28",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "greenpepper.ir",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@VPNwedbaz",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "509%F0%9F%8C%9F%F0%9F%92%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B9",
+      "type": "vless",
+      "server": "channel5.zedmodeon.lat",
+      "server_port": 2096,
+      "uuid": "9b403cf8-12b9-461b-be00-bb31dd46262a",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "bia1.zedmodeon.lat",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@ZEDMODEONVPN",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "509%F0%9F%8C%9F%F0%9F%92%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B2",
+      "type": "vless",
+      "server": "channel.zedmodeon.lat",
+      "server_port": 2053,
+      "uuid": "df3f0b0e-2295-4d9a-8f98-efcf05d02ba9",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -297,11 +2632,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "462%F0%9F%8C%9F%F0%9F%92%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B2",
+      "tag": "509%F0%9F%8C%9F%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%E2%80%8C%D8%B1%D8%A7%DB%8C%D8%AA%D9%84%E2%80%8C%D9%88%D8%A7%DB%8C%D9%81%D8%A7%DB%8C%F0%9F%92%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B9",
       "type": "vless",
-      "server": "joinbedin.zedmodeon.lat",
-      "server_port": 443,
-      "uuid": "9952f83d-bf92-4c9f-8273-9012af809809",
+      "server": "49.12.192.107",
+      "server_port": 2096,
+      "uuid": "f9f89381-7aa4-4c1f-8ce5-4e0e15453d90",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -309,15 +2644,9 @@
         "protocol": "smux",
         "max_streams": 32
       },
-      "tls": {
-        "enabled": true,
-        "server_name": "ger2.zedmodeon.lat",
-        "insecure": true,
-        "disable_sni": false
-      },
       "transport": {
         "type": "grpc",
-        "service_name": "@ZEDMODEON",
+        "service_name": "ZEDMODEON",
         "idle_timeout": "15s",
         "ping_timeout": "15s",
         "permit_without_stream": false
@@ -325,256 +2654,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "t.me/ConfigsHub%60 2",
+      "tag": "@mehrosaboran%60",
       "type": "vless",
-      "server": "dns1.nufilter.store",
-      "server_port": 2053,
-      "uuid": "ece3f035-3a26-4d98-8e77-fc2c0a4ca2e5",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "yek.kanal-tel-nufilter.store",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "%F0%9F%87%AB%F0%9F%87%AE+@FreakConfig%60",
-      "type": "vless",
-      "server": "65.109.185.86",
-      "server_port": 443,
-      "uuid": "86f8b923-549d-4d1c-82e0-15f6d3164798",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "gsmarena.com",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "@Everyday_VPN",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "@IR_ProxyV2ray+|+All++%F0%9F%87%A9%F0%9F%87%AA+%D8%A8%D8%B1%D8%A7%DB%8C+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF+%D8%A8%DB%8C%D8%A7+%D8%AA%D9%88+%DA%A9%D8%A7%D9%86%D8%A7%D9%84%60%60",
-      "type": "vless",
-      "server": "wancloudfa.ddns.net",
-      "server_port": 443,
-      "uuid": "WANCLOUDFA",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "zula.ir",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "@wancloudfa",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "TED+70+ID(@Outline_Vpn)",
-      "type": "vless",
-      "server": "faav-join.outline-vpn.cloud",
-      "server_port": 8443,
-      "uuid": "a2dadb95-3f15-4e1c-b517-0b54c336a5fd",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nl57.Vlessx.us",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "nl57.vlessx.us"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "%F0%9F%87%AF%F0%9F%87%B5Japan%60",
-      "type": "vless",
-      "server": "173.245.58.34",
-      "server_port": 443,
-      "uuid": "ffffffff-17ad-45e7-aaa1-f2baaa08e930",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "watashi.free.jppublic.moh539.link",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "watashi.free.jppublic.moh539.link"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "[%F0%9F%87%A8%F0%9F%87%A6]+%E2%9E%A0+@V2RayTz+-+All+|+22331%60",
-      "type": "vless",
-      "server": "join.v2raytz.sbs",
-      "server_port": 2053,
-      "uuid": "ece3f035-3a26-4d98-8e77-fc2c0a4ca2e5",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "yek.kanal-tel-nufilter.store",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "t.me/ConfigsHub%60 3",
-      "type": "vless",
-      "server": "h2m.judyabbott.life",
-      "server_port": 3904,
-      "uuid": "b46c82bb-8f2a-4056-b3a2-2f5871132793",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "@servermomo%F0%9F%87%B8%F0%9F%87%AA%60",
-      "type": "vless",
-      "server": "31.22.116.216",
-      "server_port": 2087,
-      "uuid": "594e3de1-0ffe-4b4c-95e4-7328e133acff",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "iugfkhgkkkkkkkkkkj.mic-mokhaderat-shatel-irancel-digikala.shop",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "@servermomo%F0%9F%87%AC%F0%9F%87%A7%60",
-      "type": "vless",
-      "server": "104.17.96.226",
-      "server_port": 443,
-      "uuid": "9f78659e-8344-40c8-ae35-ea818879a6ba",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "kyukygkugyyugygi.mic-mokhaderat-shatel-irancel-digikala.shop",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-",
-        "headers": {
-          "Host": "kyukygkugyyugygi.mic-mokhaderat-shatel-irancel-digikala.shop"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "@V2RAYVlP-link4++%F0%9F%87%AB%F0%9F%87%AE",
-      "type": "vless",
-      "server": "104.16.2.136",
-      "server_port": 80,
-      "uuid": "e63a84a1-8360-410d-af30-ee16a3208dbe",
+      "server": "104.20.156.248",
+      "server_port": 2052,
+      "uuid": "0bfbe6be-fc76-4d62-bb7b-cf67feb41dec",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -584,9 +2668,9 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "Frev2ray",
         "headers": {
-          "Host": "bia-to-channel4.unlimiteddev.shop"
+          "Host": "frev2raychannel.miox.sbs"
         },
         "max_early_data": 0,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -594,224 +2678,83 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "t.me/ConfigsHub%60 4",
+      "tag": "@mehrosaboran%60 2",
       "type": "vless",
-      "server": "172.64.147.123",
+      "server": "198.41.202.5",
+      "server_port": 2052,
+      "uuid": "0bfbe6be-fc76-4d62-bb7b-cf67feb41dec",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "Frev2ray",
+        "headers": {
+          "Host": "frev2raychannel.miox.sbs"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "@mehrosaboran%60 3",
+      "type": "vless",
+      "server": "190.93.247.155",
+      "server_port": 2052,
+      "uuid": "0bfbe6be-fc76-4d62-bb7b-cf67feb41dec",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "Frev2ray",
+        "headers": {
+          "Host": "frev2raychannel.miox.sbs"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "@mehrosaboran%60 4",
+      "type": "vless",
+      "server": "172.64.163.38",
+      "server_port": 2052,
+      "uuid": "0bfbe6be-fc76-4d62-bb7b-cf67feb41dec",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "Frev2ray",
+        "headers": {
+          "Host": "frev2raychannel.miox.sbs"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 7",
+      "type": "vless",
+      "server": "195.201.6.238",
       "server_port": 443,
-      "uuid": "6f45eda7-d6af-45b3-a2d6-87739f3d7e75",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "frre.networknim.site",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "@networknim",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "53%E2%9C%8At.me/vPlusVPN_FREE%60",
-      "type": "vless",
-      "server": "blogc.samnet.pw",
-      "server_port": 443,
-      "uuid": "86d3d6fb-5337-4f3b-bb45-1f0d29f9c4fd",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "ee1.samnet.pw",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "all-@puni_shop_v2rayNG+|+unlimited%60%60",
-      "type": "vless",
-      "server": "puni-shopv2ray.ddns.net",
-      "server_port": 8443,
-      "uuid": "87353bb7-7965-4a7d-8708-a4028f18aceb",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "V2ray.Punisher-Shop-Official.cfd",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "@puni_shop_v2rayNG ، @puni_shop_v2rayNG ، @puni_shop_v2rayNG ، @puni_shop_v2rayNG ، @puni_shop_v2rayNG",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "Finland",
-      "type": "vless",
-      "server": "mtn.vpnprosec.com",
-      "server_port": 2087,
-      "uuid": "SvnTeam",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "Fnd.SvnNvs.Online",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": null,
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "%F0%9F%87%A7%F0%9F%87%ADtelegram+%E2%9E%A0+@v2rayNG_Matsuri%60",
-      "type": "vless",
-      "server": "185.174.137.141",
-      "server_port": 4207,
-      "uuid": "18f90f32-35de-443c-9169-bbc9c0bf1212",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "%F0%9F%87%B5%F0%9F%87%BEtelegram+%E2%9E%A0+@v2rayNG_Matsuri",
-      "type": "vless",
-      "server": "45.95.232.225",
-      "server_port": 8443,
-      "uuid": "22b92687-b183-4942-8aa9-fc8472eb1b7a",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "@proSSH@proSSH@proSSH",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "Telegram-channel:+@mainmat+%F0%9F%87%A9%F0%9F%87%AA",
-      "type": "vless",
-      "server": "free.mat1o.xyz",
-      "server_port": 8443,
-      "uuid": "2b4bc86c-4c74-468f-9779-12e94e907a22",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "free.mat1o.xyz",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": null,
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "t.me/ConfigsHub%60 5",
-      "type": "vless",
-      "server": "uk.blackvpn.sbs",
-      "server_port": 9020,
-      "uuid": "2374ffa7-d780-4f1c-935c-06422881fef3",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "@lrnbymaa%60**",
-      "type": "vless",
-      "server": "104.25.254.88",
-      "server_port": 443,
-      "uuid": "d39fd4b2-71fd-46c8-9e2f-3828a376115b",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "Xzc.donaldvpn.sbs",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": null,
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "4%E2%9C%8At.me/vPlusVPN_FREE%60",
-      "type": "vless",
-      "server": "78.46.240.115",
-      "server_port": 443,
-      "uuid": "184149c1-821e-4c62-a2a6-3a3315e0b002",
+      "uuid": "e03d738b-8592-4a80-b235-211b1d701d28",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -827,7 +2770,7 @@
       },
       "transport": {
         "type": "grpc",
-        "service_name": "@TLS_v2ray",
+        "service_name": "@VPNwedbaz",
         "idle_timeout": "15s",
         "ping_timeout": "15s",
         "permit_without_stream": false
@@ -835,9 +2778,65 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "%E2%AD%955@oneclickvpnkeys",
+      "tag": "%F0%9F%94%B92@oneclickvpnkeys",
       "type": "vless",
-      "server": "13.53.140.14",
+      "server": "channel.zedmodeon.lat",
+      "server_port": 2053,
+      "uuid": "df3f0b0e-2295-4d9a-8f98-efcf05d02ba9",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "all.zedmodeon.lat",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@ZEDMODEONVPN",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 8",
+      "type": "vless",
+      "server": "195.201.6.238",
+      "server_port": 443,
+      "uuid": "e03d738b-8592-4a80-b235-211b1d701d28",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "greenpepper.ir",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@VPNwedbaz",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%8E%A5%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+PISHiserver@+%F0%9F%8C%90%F0%9F%90%88",
+      "type": "vless",
+      "server": "13.48.28.139",
       "server_port": 8443,
       "uuid": "f553d0ca-701d-4f95-90e9-2851d055291e",
       "flow": "",
@@ -850,11 +2849,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "%F0%9F%87%AB%F0%9F%87%AE+V2RayyNGvpn+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D9%85%D8%A7+%D8%AF%D8%B1+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%F0%9F%87%AB%F0%9F%87%AE%60",
+      "tag": "Maznet-MTN-34372%60 3",
       "type": "vless",
-      "server": "foxray.makup.top",
-      "server_port": 2096,
-      "uuid": "34fca90e-ab12-4a5c-80fe-0a84b16a0f33",
+      "server": "mmtt.maznet.cf",
+      "server_port": 8443,
+      "uuid": "ca010272-d8eb-4ff1-842c-c95fba4eebe6",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -864,13 +2863,13 @@
       },
       "tls": {
         "enabled": true,
-        "server_name": "iisBV2raYli.MaKuP.toP",
+        "server_name": "join2.maznet.cfd",
         "insecure": true,
         "disable_sni": false
       },
       "transport": {
         "type": "grpc",
-        "service_name": "@arian_pk",
+        "service_name": "@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet",
         "idle_timeout": "15s",
         "ping_timeout": "15s",
         "permit_without_stream": false
@@ -878,11 +2877,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "A+72+ID(@Outline_Vpn)",
+      "tag": "%F0%9F%87%A9%F0%9F%87%AA%20@VPNwedbaz%60 2",
       "type": "vless",
-      "server": "zula.ir",
-      "server_port": 2083,
-      "uuid": "66d7c8ac-e7df-48ad-b4ec-b6df792f1ae2",
+      "server": "195.201.6.238",
+      "server_port": 443,
+      "uuid": "e03d738b-8592-4a80-b235-211b1d701d28",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -892,13 +2891,13 @@
       },
       "tls": {
         "enabled": true,
-        "server_name": "Fin.Melobigg.Site",
+        "server_name": "greenpepper.ir",
         "insecure": true,
         "disable_sni": false
       },
       "transport": {
         "type": "grpc",
-        "service_name": null,
+        "service_name": "@VPNwedbaz",
         "idle_timeout": "15s",
         "ping_timeout": "15s",
         "permit_without_stream": false
@@ -906,23 +2905,57 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "t.me/ConfigsHub%60 6",
+      "tag": "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 9",
       "type": "vless",
-      "server": "64.68.192.230",
-      "server_port": 2082,
-      "uuid": "7c8a8495-d809-403d-bb1f-651bac81194c",
+      "server": "195.201.6.238",
+      "server_port": 443,
+      "uuid": "e03d738b-8592-4a80-b235-211b1d701d28",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
         "enabled": false,
         "protocol": "smux",
         "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "greenpepper.ir",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "@VPNwedbaz",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "@HosseinStore_Za%60",
+      "type": "vless",
+      "server": "sourceforge.net",
+      "server_port": 443,
+      "uuid": "2ac9b3ce-dcaf-4718-8f9b-2f9aaf9f6d83",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "Vip.hsza.site",
+        "insecure": true,
+        "disable_sni": false
       },
       "transport": {
         "type": "ws",
-        "path": "/graphql",
+        "path": "/",
         "headers": {
-          "Host": "v6jJJe6.talamala.store"
+          "Host": "Vip.hsza.site"
         },
         "max_early_data": 0,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -930,11 +2963,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "@DoNaLD_VPN%60%60_MCI%60",
+      "tag": "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 10",
       "type": "vless",
-      "server": "104.22.51.241",
+      "server": "195.201.6.238",
       "server_port": 443,
-      "uuid": "6069b0f0-a86d-4729-ba8f-e74010f0a1da",
+      "uuid": "e03d738b-8592-4a80-b235-211b1d701d28",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -944,13 +2977,13 @@
       },
       "tls": {
         "enabled": true,
-        "server_name": "Xzc.donaldvpn.sbs",
+        "server_name": "greenpepper.ir",
         "insecure": true,
         "disable_sni": false
       },
       "transport": {
         "type": "grpc",
-        "service_name": null,
+        "service_name": "@VPNwedbaz",
         "idle_timeout": "15s",
         "ping_timeout": "15s",
         "permit_without_stream": false
@@ -958,67 +2991,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%B4%D8%A7%D8%AA%D9%84+%D9%88%D8%A7%DB%8C%D9%81%D8%A7%60",
+      "tag": "%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%DB%8C+%D8%A7%DA%A9%D8%AA+%D8%B2%D8%AF%DB%8C+%D8%AF%D8%A7%D8%B4%D9%85%60 11",
       "type": "vless",
-      "server": "kashk.kanal-tel-nufilter.store",
-      "server_port": 2053,
-      "uuid": "9e0e69c0-c198-43b3-d87b-d2469192a0c8",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "kashk.kanal-tel-nufilter.store",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "@V2RAYROZ+|+%D9%87%D9%85%D9%87%60",
-      "type": "vless",
-      "server": "amphetamines.com",
-      "server_port": 2053,
-      "uuid": "9e0e69c0-c198-43b3-d87b-d2469192a0c8",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "kashk.kanal-tel-nufilter.store",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "t.me/ConfigsHub%60 7",
-      "type": "vless",
-      "server": "all.v-2rayngvpn.cfd",
+      "server": "195.201.6.238",
       "server_port": 443,
-      "uuid": "cdf57671-1208-46b1-8c24-45a858daf1a3",
+      "uuid": "e03d738b-8592-4a80-b235-211b1d701d28",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -1028,13 +3005,13 @@
       },
       "tls": {
         "enabled": true,
-        "server_name": "Loop.v2rayvpn2.sbs",
+        "server_name": "greenpepper.ir",
         "insecure": true,
         "disable_sni": false
       },
       "transport": {
         "type": "grpc",
-        "service_name": "@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn",
+        "service_name": "@VPNwedbaz",
         "idle_timeout": "15s",
         "ping_timeout": "15s",
         "permit_without_stream": false
@@ -1042,39 +3019,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "470%F0%9F%87%A9%F0%9F%87%AA%F0%9F%94%86%F0%9F%92%8E%C2%B3",
+      "tag": "%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84:prrofile_purple@%E2%9C%85",
       "type": "vless",
-      "server": "canva.com",
-      "server_port": 2053,
-      "uuid": "11c6348c-0fbe-4c1a-978f-cddd965ef2da",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "pingpong.seyyedmt-gamer.tech",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMTTelegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "@v2rayng_org%60",
-      "type": "vless",
-      "server": "zula.ir",
+      "server": "104.16.45.12",
       "server_port": 443,
-      "uuid": "---Telegram-Parsashonam--8-",
+      "uuid": "60813b9d-aa0e-4a5c-88b8-ed231058e82a",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -1084,63 +3033,18 @@
       },
       "tls": {
         "enabled": true,
-        "server_name": "0Germany.Parsashonam.Tech",
+        "server_name": "pages.20230619.love",
         "insecure": true,
         "disable_sni": false
       },
       "transport": {
-        "type": "grpc",
-        "service_name": null,
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "t.me/ConfigsHub%60 8",
-      "type": "trojan",
-      "server": "51.21.122.26",
-      "server_port": 22222,
-      "password": "telegram-id-privatevpns",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "trj.rollingnext.co.uk",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "%D8%AF%D9%88%D9%85%DB%8C",
-      "type": "vless",
-      "server": "dn42.dev",
-      "server_port": 2053,
-      "uuid": "9e0e69c0-c198-43b3-d87b-d2469192a0c8",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "kashk.kanal-tel-nufilter.store",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "pages.20230619.love"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
       },
       "domain_strategy": "ipv4_only"
     },
