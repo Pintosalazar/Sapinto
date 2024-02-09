@@ -69,222 +69,172 @@
       "tag": "Internet",
       "outbounds": [
         "Best Latency",
-        "104.21.21.21",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(78)",
-        "104.21.90.210",
-        "104.24.255.191",
-        "%F0%9F%87%B3%F0%9F%87%B1%20(2)",
-        "104.21.209.49",
-        "104.18.13.130",
-        "104.27.196.159",
-        "104.23.99.49",
-        "172.67.229.131",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(86)",
-        "104.17.232.24",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(87)",
-        "104.22.60.143",
-        "172.67.26.224",
-        "104.22.60.186",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(91)",
-        "%F0%9F%87%BA%F0%9F%87%B8%20(13)",
-        "104.31.16.163",
-        "104.18.72.65",
-        "%F0%9F%87%BA%F0%9F%87%B8%20(14)",
-        "104.17.14.48",
-        "104.27.196.149",
-        "104.16.123.175",
-        "104.21.4.84",
-        "104.17.225.203",
-        "104.18.72.57",
-        "104.22.40.69",
-        "%F0%9F%87%BA%F0%9F%87%B8%20(15)",
-        "104.22.13.162",
-        "%F0%9F%87%B3%F0%9F%87%B1%20(3)",
-        "104.16.125.175",
-        "104.18.22.236",
-        "104.18.22.210",
-        "104.21.209.196",
-        "104.22.41.69",
-        "104.22.75.75",
-        "104.21.209.87",
-        "104.17.225.248",
-        "104.17.232.35",
-        "104.17.232.137",
-        "%F0%9F%87%BA%F0%9F%87%B8%20(16)",
-        "104.22.60.236",
-        "104.22.11.11",
-        "104.21.25.0",
-        "104.18.72.146",
-        "%F0%9F%87%A8%F0%9F%87%B7%20(1)",
-        "104.17.177.252",
-        "104.23.123.208",
-        "%F0%9F%87%BA%F0%9F%87%B8%20(18)",
-        "104.21.18.64",
-        "104.21.83.172",
-        "104.22.41.69 2",
-        "%F0%9F%87%BA%F0%9F%87%B8%20(20)",
-        "%F0%9F%87%B3%F0%9F%87%B1%20(4)",
-        "104.24.177.7",
-        "104.17.225.218",
-        "104.31.16.98",
-        "104.22.13.129",
-        "%F0%9F%87%A8%F0%9F%87%A6%20(2)",
-        "104.26.0.95",
-        "104.25.112.69",
-        "104.16.126.175",
-        "104.23.99.128",
-        "104.24.185.137",
-        "104.31.16.237",
-        "104.27.196.228",
-        "104.21.20.54",
-        "%F0%9F%87%BA%F0%9F%87%B8%20(21)",
-        "%F0%9F%87%BA%F0%9F%87%B8%20(22)",
-        "%F0%9F%87%BA%F0%9F%87%B8%20(23)",
-        "104.27.196.71",
-        "104.27.193.231",
-        "%F0%9F%87%BA%F0%9F%87%B8%20(24)",
-        "%F0%9F%87%AC%F0%9F%87%A7%20(2)",
-        "%F0%9F%87%BA%F0%9F%87%B8%20(26)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(2)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(7)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(8)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(9)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(10)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(14)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(16)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(17)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(20)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(23)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(27)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(29)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(35)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(36)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(34)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(37)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(38)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(48)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(43)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(49)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(44)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(45)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(47)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(52)"
+        "SH%CE%9E%D0%AFVIN%20(5)",
+        "SH%CE%9E%D0%AFVIN%20(8)",
+        "SH%CE%9E%D0%AFVIN%20(9)",
+        "SH%CE%9E%D0%AFVIN%20(10)",
+        "SH%CE%9E%D0%AFVIN%20(12)",
+        "SH%CE%9E%D0%AFVIN%20(13)",
+        "SH%CE%9E%D0%AFVIN%20(14)",
+        "SH%CE%9E%D0%AFVIN%20(16)",
+        "SH%CE%9E%D0%AFVIN%20(21)",
+        "SH%CE%9E%D0%AFVIN%20(22)",
+        "SH%CE%9E%D0%AFVIN%20(23)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(5)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(6)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(8)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(9)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(11)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(12)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(13)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(15)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(16)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(18)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(19)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(20)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(22)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(23)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(25)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(26)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(27)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(30)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(34)",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2024",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2032",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2034",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2036",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2046",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2050",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2052",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2058",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2062",
+        "%F0%9F%87%A8%F0%9F%87%B7CR%20|%20VLESS%20|%20MTN%20|%2064",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2066",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2072",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2080",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2094",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2096",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20100",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20102",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20108",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20116",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20118",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20134",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20140",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20148",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20154",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20166",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20168",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20178",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20182",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20190",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20212",
+        "%F0%9F%87%B8%F0%9F%87%AASE%20|%20VLESS%20|%20MTN%20|%20224",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20228",
+        "%F0%9F%87%BA%F0%9F%87%B8US%20|%20VLESS%20|%20MTN%20|%20266",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20272",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20276",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20288",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20290",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20294",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20298",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20300",
+        "%F0%9F%87%BA%F0%9F%87%B8US%20|%20VLESS%20|%20MTN%20|%20302",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20310",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20330",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20334",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20352"
       ]
     },
     {
       "type": "urltest",
       "tag": "Best Latency",
       "outbounds": [
-        "104.21.21.21",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(78)",
-        "104.21.90.210",
-        "104.24.255.191",
-        "%F0%9F%87%B3%F0%9F%87%B1%20(2)",
-        "104.21.209.49",
-        "104.18.13.130",
-        "104.27.196.159",
-        "104.23.99.49",
-        "172.67.229.131",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(86)",
-        "104.17.232.24",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(87)",
-        "104.22.60.143",
-        "172.67.26.224",
-        "104.22.60.186",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(91)",
-        "%F0%9F%87%BA%F0%9F%87%B8%20(13)",
-        "104.31.16.163",
-        "104.18.72.65",
-        "%F0%9F%87%BA%F0%9F%87%B8%20(14)",
-        "104.17.14.48",
-        "104.27.196.149",
-        "104.16.123.175",
-        "104.21.4.84",
-        "104.17.225.203",
-        "104.18.72.57",
-        "104.22.40.69",
-        "%F0%9F%87%BA%F0%9F%87%B8%20(15)",
-        "104.22.13.162",
-        "%F0%9F%87%B3%F0%9F%87%B1%20(3)",
-        "104.16.125.175",
-        "104.18.22.236",
-        "104.18.22.210",
-        "104.21.209.196",
-        "104.22.41.69",
-        "104.22.75.75",
-        "104.21.209.87",
-        "104.17.225.248",
-        "104.17.232.35",
-        "104.17.232.137",
-        "%F0%9F%87%BA%F0%9F%87%B8%20(16)",
-        "104.22.60.236",
-        "104.22.11.11",
-        "104.21.25.0",
-        "104.18.72.146",
-        "%F0%9F%87%A8%F0%9F%87%B7%20(1)",
-        "104.17.177.252",
-        "104.23.123.208",
-        "%F0%9F%87%BA%F0%9F%87%B8%20(18)",
-        "104.21.18.64",
-        "104.21.83.172",
-        "104.22.41.69 2",
-        "%F0%9F%87%BA%F0%9F%87%B8%20(20)",
-        "%F0%9F%87%B3%F0%9F%87%B1%20(4)",
-        "104.24.177.7",
-        "104.17.225.218",
-        "104.31.16.98",
-        "104.22.13.129",
-        "%F0%9F%87%A8%F0%9F%87%A6%20(2)",
-        "104.26.0.95",
-        "104.25.112.69",
-        "104.16.126.175",
-        "104.23.99.128",
-        "104.24.185.137",
-        "104.31.16.237",
-        "104.27.196.228",
-        "104.21.20.54",
-        "%F0%9F%87%BA%F0%9F%87%B8%20(21)",
-        "%F0%9F%87%BA%F0%9F%87%B8%20(22)",
-        "%F0%9F%87%BA%F0%9F%87%B8%20(23)",
-        "104.27.196.71",
-        "104.27.193.231",
-        "%F0%9F%87%BA%F0%9F%87%B8%20(24)",
-        "%F0%9F%87%AC%F0%9F%87%A7%20(2)",
-        "%F0%9F%87%BA%F0%9F%87%B8%20(26)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(2)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(7)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(8)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(9)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(10)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(14)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(16)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(17)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(20)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(23)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(27)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(29)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(35)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(36)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(34)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(37)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(38)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(48)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(43)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(49)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(44)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(45)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(47)",
-        "SH%CE%9E%D0%AFVIN%E2%84%A2%20(52)"
+        "SH%CE%9E%D0%AFVIN%20(5)",
+        "SH%CE%9E%D0%AFVIN%20(8)",
+        "SH%CE%9E%D0%AFVIN%20(9)",
+        "SH%CE%9E%D0%AFVIN%20(10)",
+        "SH%CE%9E%D0%AFVIN%20(12)",
+        "SH%CE%9E%D0%AFVIN%20(13)",
+        "SH%CE%9E%D0%AFVIN%20(14)",
+        "SH%CE%9E%D0%AFVIN%20(16)",
+        "SH%CE%9E%D0%AFVIN%20(21)",
+        "SH%CE%9E%D0%AFVIN%20(22)",
+        "SH%CE%9E%D0%AFVIN%20(23)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(5)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(6)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(8)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(9)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(11)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(12)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(13)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(15)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(16)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(18)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(19)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(20)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(22)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(23)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(25)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(26)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(27)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(30)",
+        "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(34)",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2024",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2032",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2034",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2036",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2046",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2050",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2052",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2058",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2062",
+        "%F0%9F%87%A8%F0%9F%87%B7CR%20|%20VLESS%20|%20MTN%20|%2064",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2066",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2072",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2080",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2094",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2096",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20100",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20102",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20108",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20116",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20118",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20134",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20140",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20148",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20154",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20166",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20168",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20178",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20182",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20190",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20212",
+        "%F0%9F%87%B8%F0%9F%87%AASE%20|%20VLESS%20|%20MTN%20|%20224",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20228",
+        "%F0%9F%87%BA%F0%9F%87%B8US%20|%20VLESS%20|%20MTN%20|%20266",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20272",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20276",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20288",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20290",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20294",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20298",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20300",
+        "%F0%9F%87%BA%F0%9F%87%B8US%20|%20VLESS%20|%20MTN%20|%20302",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20310",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20330",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20334",
+        "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20352"
       ],
       "url": "https://detectportal.firefox.com/success.txt",
       "interval": "1m0s"
     },
     {
-      "tag": "104.21.21.21",
+      "tag": "SH%CE%9E%D0%AFVIN%20(5)",
       "type": "vless",
-      "server": "104.21.21.21",
+      "server": "172.67.58.118",
       "server_port": 443,
-      "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "uuid": "551ce444-3524-4452-9624-1d7f9bb17d6b",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -294,15 +244,15 @@
       },
       "tls": {
         "enabled": true,
-        "server_name": "edgood.king361.cf",
+        "server_name": "ygkuygyg-----nhfhkvjfcmv6767.vbdhshlllllllkkkknnndnn.blog",
         "insecure": true,
         "disable_sni": false
       },
       "transport": {
         "type": "ws",
-        "path": "Path/Telegram@V2ray_alpha/?ed=2048",
+        "path": "Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-",
         "headers": {
-          "Host": "edgood.king361.cf"
+          "Host": "ygkuygyg-----nhfhkvjfcmv6767.vbdhshlllllllkkkknnndnn.blog"
         },
         "max_early_data": 0,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -310,11 +260,89 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(78)",
+      "tag": "SH%CE%9E%D0%AFVIN%20(8)",
       "type": "vless",
-      "server": "94.131.120.119",
-      "server_port": 55198,
-      "uuid": "8cf04167-a257-48b4-a550-a8fb9515c68f",
+      "server": "190.93.246.137",
+      "server_port": 2095,
+      "uuid": "b39531d2-40c0-4bae-aaee-0cc2ff2e46c0",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "@ExpressVPN_420 \"@ExpressVPN_420",
+        "headers": {
+          "Host": "我的父亲.gamermecfz.ir"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "SH%CE%9E%D0%AFVIN%20(9)",
+      "type": "vless",
+      "server": "104.18.203.232",
+      "server_port": 2082,
+      "uuid": "034de6c7-8326-40cb-98d3-97742f0e1530",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "@ExpressVPN_420 \" @ExpressVPN_420",
+        "headers": {
+          "Host": "我的父亲.gamermecfz.ir"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "SH%CE%9E%D0%AFVIN%20(10)",
+      "type": "vless",
+      "server": "172.67.58.118",
+      "server_port": 443,
+      "uuid": "551ce444-3524-4452-9624-1d7f9bb17d6b",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "ygkuygyg-----nhfhkvjfcmv6767.vbdhshlllllllkkkknnndnn.blog",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-",
+        "headers": {
+          "Host": "ygkuygyg-----nhfhkvjfcmv6767.vbdhshlllllllkkkknnndnn.blog"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "SH%CE%9E%D0%AFVIN%20(12)",
+      "type": "vless",
+      "server": "104.18.200.200",
+      "server_port": 2086,
+      "uuid": "073c769d-9a23-4333-bc97-7f3535a475d3",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -326,7 +354,7 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": null
+          "Host": "f328.maryam1900.Com"
         },
         "max_early_data": 0,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -334,11 +362,185 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "104.21.90.210",
+      "tag": "SH%CE%9E%D0%AFVIN%20(13)",
       "type": "vless",
-      "server": "104.21.90.210",
+      "server": "190.93.246.137",
+      "server_port": 2095,
+      "uuid": "b39531d2-40c0-4bae-aaee-0cc2ff2e46c0",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "@ExpressVPN_420 \"@ExpressVPN_420",
+        "headers": {
+          "Host": "我的父亲.gamermecfz.ir"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "SH%CE%9E%D0%AFVIN%20(14)",
+      "type": "vless",
+      "server": "104.18.203.232",
+      "server_port": 2082,
+      "uuid": "034de6c7-8326-40cb-98d3-97742f0e1530",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "@ExpressVPN_420 \" @ExpressVPN_420",
+        "headers": {
+          "Host": "我的父亲.gamermecfz.ir"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "SH%CE%9E%D0%AFVIN%20(16)",
+      "type": "vless",
+      "server": "104.18.200.200",
+      "server_port": 2086,
+      "uuid": "073c769d-9a23-4333-bc97-7f3535a475d3",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "f328.maryam1900.Com"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "SH%CE%9E%D0%AFVIN%20(21)",
+      "type": "vless",
+      "server": "104.18.200.200",
+      "server_port": 2086,
+      "uuid": "073c769d-9a23-4333-bc97-7f3535a475d3",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "f328.maryam1900.Com"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "SH%CE%9E%D0%AFVIN%20(22)",
+      "type": "vless",
+      "server": "190.93.246.137",
+      "server_port": 2095,
+      "uuid": "b39531d2-40c0-4bae-aaee-0cc2ff2e46c0",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "@ExpressVPN_420 \"@ExpressVPN_420",
+        "headers": {
+          "Host": "我的父亲.gamermecfz.ir"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "SH%CE%9E%D0%AFVIN%20(23)",
+      "type": "vless",
+      "server": "104.18.203.232",
+      "server_port": 2082,
+      "uuid": "034de6c7-8326-40cb-98d3-97742f0e1530",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "@ExpressVPN_420 \" @ExpressVPN_420",
+        "headers": {
+          "Host": "我的父亲.gamermecfz.ir"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(5)",
+      "type": "vless",
+      "server": "172.67.58.118",
+      "server_port": 443,
+      "uuid": "551ce444-3524-4452-9624-1d7f9bb17d6b",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "ygkuygyg-----nhfhkvjfcmv6767.vbdhshlllllllkkkknnndnn.blog",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-",
+        "headers": {
+          "Host": "ygkuygyg-----nhfhkvjfcmv6767.vbdhshlllllllkkkknnndnn.blog"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(6)",
+      "type": "vless",
+      "server": "104.18.7.53",
       "server_port": 8443,
-      "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "uuid": "9b76baa9-4269-4c46-aaec-4d884a305da0",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -348,27 +550,25 @@
       },
       "tls": {
         "enabled": true,
-        "server_name": "edgood.king361.cf",
+        "server_name": "g.networknim.lol",
         "insecure": true,
         "disable_sni": false
       },
       "transport": {
-        "type": "ws",
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "edgood.king361.cf"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
+        "type": "grpc",
+        "service_name": "8443vless",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
       },
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "104.24.255.191",
+      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(8)",
       "type": "vless",
-      "server": "104.24.255.191",
-      "server_port": 2052,
-      "uuid": "91cf0cb2-fab4-4e3c-b66c-d2a57eea53ab",
+      "server": "104.18.203.232",
+      "server_port": 2082,
+      "uuid": "034de6c7-8326-40cb-98d3-97742f0e1530",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -378,9 +578,9 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "@ExpressVPN_420 \" @ExpressVPN_420",
         "headers": {
-          "Host": "ACMMKU.KHaMeNEi.bio"
+          "Host": "我的父亲.gamermecfz.ir"
         },
         "max_early_data": 0,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -388,11 +588,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "%F0%9F%87%B3%F0%9F%87%B1%20(2)",
+      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(9)",
       "type": "vless",
-      "server": "188.114.97.45",
-      "server_port": 80,
-      "uuid": "2eaf9c3a-b705-43c0-a59f-046b8f4ea204",
+      "server": "190.93.246.137",
+      "server_port": 2095,
+      "uuid": "b39531d2-40c0-4bae-aaee-0cc2ff2e46c0",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -402,9 +602,9 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/vless  @hopev2ray @hopev2ray @hopev2ray @hopev2ray @hopev2ray @hopev2ray",
+        "path": "@ExpressVPN_420 \"@ExpressVPN_420",
         "headers": {
-          "Host": "fr2-vless.sshmax.xyz"
+          "Host": "我的父亲.gamermecfz.ir"
         },
         "max_early_data": 0,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -412,35 +612,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "104.21.209.49",
+      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(11)",
       "type": "vless",
-      "server": "104.21.209.49",
-      "server_port": 2052,
-      "uuid": "fab004c8-08a7-447d-8f79-61a02125ab4f",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "R7ngC5.BlacKmasteR.ORG"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.18.13.130",
-      "type": "vless",
-      "server": "104.18.13.130",
-      "server_port": 2083,
-      "uuid": "3c110307-dcf0-4002-b944-6d2c9530dd23",
+      "server": "104.16.158.229",
+      "server_port": 443,
+      "uuid": "551ce444-3524-4452-9624-1d7f9bb17d6b",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -450,37 +626,15 @@
       },
       "tls": {
         "enabled": true,
-        "server_name": "dash.zedmodeon.lat",
+        "server_name": "ygkuygyg-----nhfhkvjfcmv6767.vbdhshlllllllkkkknnndnn.blog",
         "insecure": true,
         "disable_sni": false
       },
       "transport": {
-        "type": "grpc",
-        "service_name": "ZEDMODEON-ZEDMODEON-ZEDMODEON",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.27.196.159",
-      "type": "vless",
-      "server": "104.27.196.159",
-      "server_port": 2052,
-      "uuid": "fab004c8-08a7-447d-8f79-61a02125ab4f",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-",
         "headers": {
-          "Host": "R7ngC5.BlacKmasteR.ORG"
+          "Host": "ygkuygyg-----nhfhkvjfcmv6767.vbdhshlllllllkkkknnndnn.blog"
         },
         "max_early_data": 0,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -488,11 +642,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "104.23.99.49",
+      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(12)",
       "type": "vless",
-      "server": "104.23.99.49",
-      "server_port": 80,
-      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
+      "server": "172.67.58.118",
+      "server_port": 443,
+      "uuid": "551ce444-3524-4452-9624-1d7f9bb17d6b",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -500,11 +654,17 @@
         "protocol": "smux",
         "max_streams": 32
       },
+      "tls": {
+        "enabled": true,
+        "server_name": "ygkuygyg-----nhfhkvjfcmv6767.vbdhshlllllllkkkknnndnn.blog",
+        "insecure": true,
+        "disable_sni": false
+      },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-",
         "headers": {
-          "Host": "JBCK6o.mICrosOFts.downLOaD"
+          "Host": "ygkuygyg-----nhfhkvjfcmv6767.vbdhshlllllllkkkknnndnn.blog"
         },
         "max_early_data": 0,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -512,168 +672,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "172.67.229.131",
+      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(13)",
       "type": "vless",
-      "server": "172.67.229.131",
-      "server_port": 80,
-      "uuid": "b13a9e91-60c6-4fab-a982-2db41b13947a",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/backup",
-        "headers": {
-          "Host": "Ir18U8.CDNMCi.sItE"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(86)",
-      "type": "vless",
-      "server": "49.13.82.202",
-      "server_port": 2096,
-      "uuid": "16747acc-95c8-44ba-9b66-3d8a0c035347",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": null,
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.17.232.24",
-      "type": "vless",
-      "server": "104.17.232.24",
-      "server_port": 80,
-      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "JBCK6o.mICrosOFts.downLOaD"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(87)",
-      "type": "vless",
-      "server": "128.140.97.199",
-      "server_port": 52606,
-      "uuid": "bbcac1db-e11c-4e8e-8421-442b910d2231",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.22.60.143",
-      "type": "vless",
-      "server": "104.22.60.143",
-      "server_port": 80,
-      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "JBCK6o.mICrosOFts.downLOaD"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "172.67.26.224",
-      "type": "vless",
-      "server": "172.67.26.224",
-      "server_port": 80,
-      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "JBCK6o.mICrosOFts.downLOaD"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.22.60.186",
-      "type": "vless",
-      "server": "104.22.60.186",
-      "server_port": 80,
-      "uuid": "b13a9e91-60c6-4fab-a982-2db41b13947a",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/backup",
-        "headers": {
-          "Host": "Ir18U8.CDNMCi.sItE"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(91)",
-      "type": "vless",
-      "server": "104.17.254.239",
+      "server": "104.18.7.53",
       "server_port": 8443,
-      "uuid": "64f4faca-8387-4511-adab-45300a332d27",
+      "uuid": "9b76baa9-4269-4c46-aaec-4d884a305da0",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -683,13 +686,13 @@
       },
       "tls": {
         "enabled": true,
-        "server_name": "id067.v2net.work",
+        "server_name": "g.networknim.lol",
         "insecure": true,
         "disable_sni": false
       },
       "transport": {
         "type": "grpc",
-        "service_name": null,
+        "service_name": "8443vless",
         "idle_timeout": "15s",
         "ping_timeout": "15s",
         "permit_without_stream": false
@@ -697,11 +700,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "%F0%9F%87%BA%F0%9F%87%B8%20(13)",
+      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(15)",
       "type": "vless",
-      "server": "172.67.211.49",
-      "server_port": 2052,
-      "uuid": "96bd9a86-efec-46e1-a638-f5c2e841fc1a",
+      "server": "104.18.203.232",
+      "server_port": 2082,
+      "uuid": "034de6c7-8326-40cb-98d3-97742f0e1530",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -711,9 +714,9 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/discord:sadra",
+        "path": "@ExpressVPN_420 \" @ExpressVPN_420",
         "headers": {
-          "Host": "new.noskhe.xyz"
+          "Host": "我的父亲.gamermecfz.ir"
         },
         "max_early_data": 0,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -721,11 +724,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "104.31.16.163",
+      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(16)",
       "type": "vless",
-      "server": "104.31.16.163",
-      "server_port": 2052,
-      "uuid": "fab004c8-08a7-447d-8f79-61a02125ab4f",
+      "server": "190.93.246.137",
+      "server_port": 2095,
+      "uuid": "b39531d2-40c0-4bae-aaee-0cc2ff2e46c0",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -735,9 +738,9 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "@ExpressVPN_420 \"@ExpressVPN_420",
         "headers": {
-          "Host": "R7ngC5.BlacKmasteR.ORG"
+          "Host": "我的父亲.gamermecfz.ir"
         },
         "max_early_data": 0,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -745,59 +748,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "104.18.72.65",
+      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(18)",
       "type": "vless",
-      "server": "104.18.72.65",
-      "server_port": 80,
-      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "JBCK6o.mICrosOFts.downLOaD"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "%F0%9F%87%BA%F0%9F%87%B8%20(14)",
-      "type": "vless",
-      "server": "172.67.229.101",
-      "server_port": 2052,
-      "uuid": "fab004c8-08a7-447d-8f79-61a02125ab4f",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "R7ngC5.BlacKmasteR.ORG"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.17.14.48",
-      "type": "vless",
-      "server": "104.17.14.48",
+      "server": "104.16.158.229",
       "server_port": 443,
-      "uuid": "edeb47fc-22c1-479e-a7c4-cff13932912a",
+      "uuid": "551ce444-3524-4452-9624-1d7f9bb17d6b",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -807,37 +762,15 @@
       },
       "tls": {
         "enabled": true,
-        "server_name": "real.tweb.lol",
+        "server_name": "ygkuygyg-----nhfhkvjfcmv6767.vbdhshlllllllkkkknnndnn.blog",
         "insecure": true,
         "disable_sni": false
       },
       "transport": {
-        "type": "grpc",
-        "service_name": "real.tweb.lol",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.27.196.149",
-      "type": "vless",
-      "server": "104.27.196.149",
-      "server_port": 2052,
-      "uuid": "fab004c8-08a7-447d-8f79-61a02125ab4f",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-",
         "headers": {
-          "Host": "R7ngC5.BlacKmasteR.ORG"
+          "Host": "ygkuygyg-----nhfhkvjfcmv6767.vbdhshlllllllkkkknnndnn.blog"
         },
         "max_early_data": 0,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -845,35 +778,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "104.16.123.175",
+      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(19)",
       "type": "vless",
-      "server": "104.16.123.175",
-      "server_port": 8080,
-      "uuid": "c03ed994-b19f-4601-9fd6-7ed7953e4a1d",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/backup",
-        "headers": {
-          "Host": "Z4jEh0.TeleweBION.NETwORK"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.21.4.84",
-      "type": "vless",
-      "server": "104.21.4.84",
+      "server": "172.67.58.118",
       "server_port": 443,
-      "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "uuid": "551ce444-3524-4452-9624-1d7f9bb17d6b",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -883,15 +792,15 @@
       },
       "tls": {
         "enabled": true,
-        "server_name": "edgood.king361.cf",
+        "server_name": "ygkuygyg-----nhfhkvjfcmv6767.vbdhshlllllllkkkknnndnn.blog",
         "insecure": true,
         "disable_sni": false
       },
       "transport": {
         "type": "ws",
-        "path": "Path/TelegramV2ray_Alpha/?ed=2048",
+        "path": "Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-",
         "headers": {
-          "Host": "edgood.king361.cf"
+          "Host": "ygkuygyg-----nhfhkvjfcmv6767.vbdhshlllllllkkkknnndnn.blog"
         },
         "max_early_data": 0,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -899,399 +808,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "104.17.225.203",
+      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(20)",
       "type": "vless",
-      "server": "104.17.225.203",
-      "server_port": 80,
-      "uuid": "b13a9e91-60c6-4fab-a982-2db41b13947a",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/backup",
-        "headers": {
-          "Host": "Ir18U8.CDNMCi.sItE"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.18.72.57",
-      "type": "vless",
-      "server": "104.18.72.57",
-      "server_port": 80,
-      "uuid": "b13a9e91-60c6-4fab-a982-2db41b13947a",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/backup",
-        "headers": {
-          "Host": "Ir18U8.CDNMCi.sItE"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.22.40.69",
-      "type": "vless",
-      "server": "104.22.40.69",
-      "server_port": 8080,
-      "uuid": "1732c28e-9328-4246-bed6-de522bb6e102",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "yLyvzL.kHAmEnei.bio"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "%F0%9F%87%BA%F0%9F%87%B8%20(15)",
-      "type": "vless",
-      "server": "172.67.22.113",
-      "server_port": 8080,
-      "uuid": "1732c28e-9328-4246-bed6-de522bb6e102",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "yLyvzL.kHAmEnei.bio"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.22.13.162",
-      "type": "vless",
-      "server": "104.22.13.162",
-      "server_port": 80,
-      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "JBCK6o.mICrosOFts.downLOaD"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "%F0%9F%87%B3%F0%9F%87%B1%20(3)",
-      "type": "vless",
-      "server": "188.114.96.0",
-      "server_port": 443,
-      "uuid": "e8980fa3-7406-4163-9eb0-b04ea2fc9bd1",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "usa1.ferdowsi.shop",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.16.125.175",
-      "type": "vless",
-      "server": "104.16.125.175",
-      "server_port": 80,
-      "uuid": "c4e46f2c-5fa4-4bf2-b8d4-69bb1544cee0",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/backup",
-        "headers": {
-          "Host": "Gio4GI.TahaRAT.App"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.18.22.236",
-      "type": "vless",
-      "server": "104.18.22.236",
-      "server_port": 80,
-      "uuid": "b13a9e91-60c6-4fab-a982-2db41b13947a",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/backup",
-        "headers": {
-          "Host": "Ir18U8.CDNMCi.sItE"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.18.22.210",
-      "type": "vless",
-      "server": "104.18.22.210",
-      "server_port": 2052,
-      "uuid": "fab004c8-08a7-447d-8f79-61a02125ab4f",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "R7ngC5.BlacKmasteR.ORG"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.21.209.196",
-      "type": "vless",
-      "server": "104.21.209.196",
-      "server_port": 80,
-      "uuid": "b13a9e91-60c6-4fab-a982-2db41b13947a",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/backup",
-        "headers": {
-          "Host": "Ir18U8.CDNMCi.sItE"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.22.41.69",
-      "type": "vless",
-      "server": "104.22.41.69",
-      "server_port": 8080,
-      "uuid": "1732c28e-9328-4246-bed6-de522bb6e102",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "yLyvzL.kHAmEnei.bio"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.22.75.75",
-      "type": "vless",
-      "server": "104.22.75.75",
-      "server_port": 80,
-      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "JBCK6o.mICrosOFts.downLOaD"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.21.209.87",
-      "type": "vless",
-      "server": "104.21.209.87",
-      "server_port": 2052,
-      "uuid": "fab004c8-08a7-447d-8f79-61a02125ab4f",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "R7ngC5.BlacKmasteR.ORG"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.17.225.248",
-      "type": "vless",
-      "server": "104.17.225.248",
-      "server_port": 80,
-      "uuid": "b13a9e91-60c6-4fab-a982-2db41b13947a",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/backup",
-        "headers": {
-          "Host": "Ir18U8.CDNMCi.sItE"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.17.232.35",
-      "type": "vless",
-      "server": "104.17.232.35",
-      "server_port": 80,
-      "uuid": "b13a9e91-60c6-4fab-a982-2db41b13947a",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/backup",
-        "headers": {
-          "Host": "Ir18U8.CDNMCi.sItE"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.17.232.137",
-      "type": "vless",
-      "server": "104.17.232.137",
-      "server_port": 2052,
-      "uuid": "fab004c8-08a7-447d-8f79-61a02125ab4f",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "R7ngC5.BlacKmasteR.ORG"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "%F0%9F%87%BA%F0%9F%87%B8%20(16)",
-      "type": "vless",
-      "server": "172.67.193.36",
+      "server": "104.18.7.53",
       "server_port": 8443,
-      "uuid": "a6238774-2ff8-425d-a093-2f70c364d3d1",
+      "uuid": "9b76baa9-4269-4c46-aaec-4d884a305da0",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -1301,13 +822,13 @@
       },
       "tls": {
         "enabled": true,
-        "server_name": "kasler.harchishod.top",
+        "server_name": "g.networknim.lol",
         "insecure": true,
         "disable_sni": false
       },
       "transport": {
         "type": "grpc",
-        "service_name": null,
+        "service_name": "8443vless",
         "idle_timeout": "15s",
         "ping_timeout": "15s",
         "permit_without_stream": false
@@ -1315,11 +836,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "104.22.60.236",
+      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(22)",
       "type": "vless",
-      "server": "104.22.60.236",
-      "server_port": 80,
-      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
+      "server": "104.18.203.232",
+      "server_port": 2082,
+      "uuid": "034de6c7-8326-40cb-98d3-97742f0e1530",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -1329,9 +850,9 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "@ExpressVPN_420 \" @ExpressVPN_420",
         "headers": {
-          "Host": "JBCK6o.mICrosOFts.downLOaD"
+          "Host": "我的父亲.gamermecfz.ir"
         },
         "max_early_data": 0,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1339,11 +860,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "104.22.11.11",
+      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(23)",
       "type": "vless",
-      "server": "104.22.11.11",
-      "server_port": 80,
-      "uuid": "b13a9e91-60c6-4fab-a982-2db41b13947a",
+      "server": "190.93.246.137",
+      "server_port": 2095,
+      "uuid": "b39531d2-40c0-4bae-aaee-0cc2ff2e46c0",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -1353,9 +874,9 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/backup",
+        "path": "@ExpressVPN_420 \"@ExpressVPN_420",
         "headers": {
-          "Host": "Ir18U8.CDNMCi.sItE"
+          "Host": "我的父亲.gamermecfz.ir"
         },
         "max_early_data": 0,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1363,59 +884,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "104.21.25.0",
+      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(25)",
       "type": "vless",
-      "server": "104.21.25.0",
-      "server_port": 80,
-      "uuid": "257411d3-494f-4585-d4e3-8e159557c6fb",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "RUeQOU.Dl-OnLINEdOctoR.biO"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.18.72.146",
-      "type": "vless",
-      "server": "104.18.72.146",
-      "server_port": 80,
-      "uuid": "b13a9e91-60c6-4fab-a982-2db41b13947a",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/backup",
-        "headers": {
-          "Host": "Ir18U8.CDNMCi.sItE"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "%F0%9F%87%A8%F0%9F%87%B7%20(1)",
-      "type": "vless",
-      "server": "190.93.246.247",
-      "server_port": 2053,
-      "uuid": "594627e3-a602-42bd-bb76-01d21921541c",
+      "server": "104.16.158.229",
+      "server_port": 443,
+      "uuid": "551ce444-3524-4452-9624-1d7f9bb17d6b",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -1425,13 +898,73 @@
       },
       "tls": {
         "enabled": true,
-        "server_name": "y.1lagvpn13.cfd",
+        "server_name": "ygkuygyg-----nhfhkvjfcmv6767.vbdhshlllllllkkkknnndnn.blog",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-",
+        "headers": {
+          "Host": "ygkuygyg-----nhfhkvjfcmv6767.vbdhshlllllllkkkknnndnn.blog"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(26)",
+      "type": "vless",
+      "server": "172.67.58.118",
+      "server_port": 443,
+      "uuid": "551ce444-3524-4452-9624-1d7f9bb17d6b",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "ygkuygyg-----nhfhkvjfcmv6767.vbdhshlllllllkkkknnndnn.blog",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-",
+        "headers": {
+          "Host": "ygkuygyg-----nhfhkvjfcmv6767.vbdhshlllllllkkkknnndnn.blog"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(27)",
+      "type": "vless",
+      "server": "104.18.7.53",
+      "server_port": 8443,
+      "uuid": "9b76baa9-4269-4c46-aaec-4d884a305da0",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "g.networknim.lol",
         "insecure": true,
         "disable_sni": false
       },
       "transport": {
         "type": "grpc",
-        "service_name": "@v2rray1_ng",
+        "service_name": "8443vless",
         "idle_timeout": "15s",
         "ping_timeout": "15s",
         "permit_without_stream": false
@@ -1439,11 +972,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "104.17.177.252",
+      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(30)",
       "type": "vless",
-      "server": "104.17.177.252",
-      "server_port": 80,
-      "uuid": "b13a9e91-60c6-4fab-a982-2db41b13947a",
+      "server": "190.93.246.137",
+      "server_port": 2095,
+      "uuid": "b39531d2-40c0-4bae-aaee-0cc2ff2e46c0",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -1453,9 +986,9 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/backup",
+        "path": "@ExpressVPN_420 \"@ExpressVPN_420",
         "headers": {
-          "Host": "Ir18U8.CDNMCi.sItE"
+          "Host": "我的父亲.gamermecfz.ir"
         },
         "max_early_data": 0,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1463,7 +996,35 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "104.23.123.208",
+      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%AE%20(34)",
+      "type": "vless",
+      "server": "104.18.7.53",
+      "server_port": 8443,
+      "uuid": "9b76baa9-4269-4c46-aaec-4d884a305da0",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "g.networknim.lol",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "8443vless",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s",
+        "permit_without_stream": false
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2024",
       "type": "vless",
       "server": "104.23.123.208",
       "server_port": 80,
@@ -1487,11 +1048,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "%F0%9F%87%BA%F0%9F%87%B8%20(18)",
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2032",
       "type": "vless",
-      "server": "172.66.47.158",
-      "server_port": 2052,
-      "uuid": "cddfad1b-e08f-460d-bb0b-96ad34d814ca",
+      "server": "104.22.60.143",
+      "server_port": 80,
+      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -1503,7 +1064,7 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "dmcgFY.BlaCKMAsTEr.OrG"
+          "Host": "JBCK6o.mICrosOFts.downLOaD"
         },
         "max_early_data": 0,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1511,155 +1072,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "104.21.18.64",
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2034",
       "type": "vless",
-      "server": "104.21.18.64",
-      "server_port": 443,
-      "uuid": "c085eef1-b5f1-44ed-b7f1-a0b28279af34",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "de1vless.vpnhack.xyz",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/vless",
-        "headers": {
-          "Host": "de1-vless.vpnhack.xyz"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.21.83.172",
-      "type": "vless",
-      "server": "104.21.83.172",
-      "server_port": 443,
-      "uuid": "32a2c364-a814-4285-b1ac-ae34de5b0fda",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "wss-h0jgdvq9w43jf2.v2ng.ir",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "|v2ray_bx|",
-        "headers": {
-          "Host": "gr.v2ng.ir"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.22.41.69 2",
-      "type": "vless",
-      "server": "104.22.41.69",
+      "server": "172.66.47.98",
       "server_port": 80,
-      "uuid": "647afdc3-c76c-48f5-bce0-5092e4c21abe",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/backup",
-        "headers": {
-          "Host": "LnbQ3D.BLaCKMAsTEr.orG"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "%F0%9F%87%BA%F0%9F%87%B8%20(20)",
-      "type": "vless",
-      "server": "172.67.179.62",
-      "server_port": 443,
-      "uuid": "32a2c364-a814-4285-b1ac-ae34de5b0fda",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "wss-h0jgdvq9w43jf2.v2ng.ir",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "|v2ray_bx|",
-        "headers": {
-          "Host": "gr.v2ng.ir"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "%F0%9F%87%B3%F0%9F%87%B1%20(4)",
-      "type": "vless",
-      "server": "188.114.97.42",
-      "server_port": 443,
-      "uuid": "4db8fe35-3ee2-4e29-a849-f944de8e1012",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nl1-vless.sshmax.xyz",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/vless  @hopev2ray @hopev2ray @hopev2ray @hopev2ray @hopev2ray @hopev2ray",
-        "headers": {
-          "Host": "nl1-vless.sshmax.xyz"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.24.177.7",
-      "type": "vless",
-      "server": "104.24.177.7",
-      "server_port": 8880,
-      "uuid": "6a58dff8-0277-4db9-8106-df78b1da1e49",
+      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -1671,7 +1088,7 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "cdn.usa1.nvclud.ir"
+          "Host": "zYglcL.mICROSoftS.dOWnLoAD"
         },
         "max_early_data": 0,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1679,35 +1096,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "104.17.225.218",
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2036",
       "type": "vless",
-      "server": "104.17.225.218",
+      "server": "104.22.11.78",
       "server_port": 80,
-      "uuid": "b13a9e91-60c6-4fab-a982-2db41b13947a",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/backup",
-        "headers": {
-          "Host": "Ir18U8.CDNMCi.sItE"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.31.16.98",
-      "type": "vless",
-      "server": "104.31.16.98",
-      "server_port": 80,
-      "uuid": "e2c3e5b6-ef09-4649-bd32-b0f448a073e3",
+      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -1719,7 +1112,7 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "lashashin.garayane.xbox.heydas.heydasgermany.name.ng"
+          "Host": "JBCK6o.mICrosOFts.downLOaD"
         },
         "max_early_data": 0,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1727,11 +1120,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "104.22.13.129",
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2046",
       "type": "vless",
-      "server": "104.22.13.129",
+      "server": "104.22.60.236",
       "server_port": 80,
-      "uuid": "b13a9e91-60c6-4fab-a982-2db41b13947a",
+      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -1741,9 +1134,9 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/backup",
+        "path": "/",
         "headers": {
-          "Host": "Ir18U8.CDNMCi.sItE"
+          "Host": "JBCK6o.mICrosOFts.downLOaD"
         },
         "max_early_data": 0,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1751,11 +1144,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "%F0%9F%87%A8%F0%9F%87%A6%20(2)",
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2050",
       "type": "vless",
-      "server": "23.227.38.111",
+      "server": "172.67.220.65",
       "server_port": 443,
-      "uuid": "675f1c41-8870-469d-a7da-eec1522708d1",
+      "uuid": "ffffffff-eeae-4311-b37c-b2a67847fed2",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -1765,15 +1158,15 @@
       },
       "tls": {
         "enabled": true,
-        "server_name": "asii.kasler.sbs",
+        "server_name": "watashi.free.de.mnhacker.eu.org",
         "insecure": true,
         "disable_sni": false
       },
       "transport": {
         "type": "ws",
-        "path": "/downloader/14410",
+        "path": "/?ed=2048",
         "headers": {
-          "Host": "asii.kasler.sbs"
+          "Host": "watashi.free.de.mnhacker.eu.org"
         },
         "max_early_data": 0,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1781,95 +1174,35 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "104.26.0.95",
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2052",
       "type": "vless",
-      "server": "104.26.0.95",
-      "server_port": 443,
-      "uuid": "48caea1d-1e57-4205-8dd8-dee478424f97",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "worker-flat-block-0d02.buxzj.workers.dev",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/TqE6jD0U75tHi0qg6pk11",
-        "headers": {
-          "Host": "worker-flat-block-0d02.buxzj.workers.dev"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.25.112.69",
-      "type": "vless",
-      "server": "104.25.112.69",
-      "server_port": 443,
-      "uuid": "8ca98c98-fb0b-4007-a6e8-c8294e546763",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "srv12.xyzquant.cloud",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/6eenmFpORi4fyf8bW",
-        "headers": {
-          "Host": "srv12.xyzquant.cloud"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.16.126.175",
-      "type": "vless",
-      "server": "104.16.126.175",
-      "server_port": 8080,
-      "uuid": "c03ed994-b19f-4601-9fd6-7ed7953e4a1d",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/backup",
-        "headers": {
-          "Host": "Z4jEh0.TeleweBION.NETwORK"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.23.99.128",
-      "type": "vless",
-      "server": "104.23.99.128",
+      "server": "104.22.11.141",
       "server_port": 80,
-      "uuid": "b13a9e91-60c6-4fab-a982-2db41b13947a",
+      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "JBCK6o.mICrosOFts.downLOaD"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2058",
+      "type": "vless",
+      "server": "104.18.22.42",
+      "server_port": 80,
+      "uuid": "efd473fc-20b4-4b5c-bf76-48e12f0f29c1",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -1881,7 +1214,7 @@
         "type": "ws",
         "path": "/backup",
         "headers": {
-          "Host": "Ir18U8.CDNMCi.sItE"
+          "Host": "iILcZn.cDnmCi.sIte"
         },
         "max_early_data": 0,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1889,35 +1222,7 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "104.24.185.137",
-      "type": "vless",
-      "server": "104.24.185.137",
-      "server_port": 2083,
-      "uuid": "dbca2e4e-f572-4fc0-cf40-d48a11530191",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "chykz.ykzchconect.top",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": null,
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.31.16.237",
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2062",
       "type": "vless",
       "server": "104.31.16.237",
       "server_port": 80,
@@ -1941,11 +1246,35 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "104.27.196.228",
+      "tag": "%F0%9F%87%A8%F0%9F%87%B7CR%20|%20VLESS%20|%20MTN%20|%2064",
       "type": "vless",
-      "server": "104.27.196.228",
-      "server_port": 2052,
-      "uuid": "fab004c8-08a7-447d-8f79-61a02125ab4f",
+      "server": "190.93.246.137",
+      "server_port": 2095,
+      "uuid": "b39531d2-40c0-4bae-aaee-0cc2ff2e46c0",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "@ExpressVPN_420 \"@ExpressVPN_420",
+        "headers": {
+          "Host": "我的父亲.gamermecfz.ir"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2066",
+      "type": "vless",
+      "server": "104.21.231.195",
+      "server_port": 80,
+      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -1957,7 +1286,7 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "R7ngC5.BlacKmasteR.ORG"
+          "Host": "JBCK6o.mICrosOFts.downLOaD"
         },
         "max_early_data": 0,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1965,11 +1294,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "104.21.20.54",
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2072",
       "type": "vless",
-      "server": "104.21.20.54",
+      "server": "104.23.99.188",
       "server_port": 80,
-      "uuid": "13e22efe-0a8d-4bf1-8263-d66294032737",
+      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -1979,9 +1308,9 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/vless",
+        "path": "/",
         "headers": {
-          "Host": "se2-vless.sshmax.xyz"
+          "Host": "JBCK6o.mICrosOFts.downLOaD"
         },
         "max_early_data": 0,
         "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1989,7 +1318,403 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "%F0%9F%87%BA%F0%9F%87%B8%20(21)",
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2080",
+      "type": "vless",
+      "server": "104.18.27.201",
+      "server_port": 80,
+      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "JBCK6o.mICrosOFts.downLOaD"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2094",
+      "type": "vless",
+      "server": "104.17.232.178",
+      "server_port": 80,
+      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "JBCK6o.mICrosOFts.downLOaD"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%2096",
+      "type": "vless",
+      "server": "104.17.232.216",
+      "server_port": 80,
+      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "JBCK6o.mICrosOFts.downLOaD"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20100",
+      "type": "vless",
+      "server": "104.23.99.163",
+      "server_port": 80,
+      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "JBCK6o.mICrosOFts.downLOaD"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20102",
+      "type": "vless",
+      "server": "172.67.197.73",
+      "server_port": 80,
+      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "JBCK6o.mICrosOFts.downLOaD"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20108",
+      "type": "vless",
+      "server": "104.23.123.82",
+      "server_port": 80,
+      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "JBCK6o.mICrosOFts.downLOaD"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20116",
+      "type": "vless",
+      "server": "104.23.99.49",
+      "server_port": 80,
+      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "JBCK6o.mICrosOFts.downLOaD"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20118",
+      "type": "vless",
+      "server": "104.27.193.225",
+      "server_port": 80,
+      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "JBCK6o.mICrosOFts.downLOaD"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20134",
+      "type": "vless",
+      "server": "172.67.215.29",
+      "server_port": 443,
+      "uuid": "b9ad895b-12ac-40fc-a5ac-a5b2a1285001",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "3k.pureboy.eu.org",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "Path/Telegram@v2ray_alpha/?ed=2048",
+        "headers": {
+          "Host": "3k.pureboy.eu.org"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20140",
+      "type": "vless",
+      "server": "104.22.60.222",
+      "server_port": 80,
+      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "JBCK6o.mICrosOFts.downLOaD"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20148",
+      "type": "vless",
+      "server": "104.27.193.197",
+      "server_port": 80,
+      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "JBCK6o.mICrosOFts.downLOaD"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20154",
+      "type": "vless",
+      "server": "104.17.232.132",
+      "server_port": 80,
+      "uuid": "efd473fc-20b4-4b5c-bf76-48e12f0f29c1",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/backup",
+        "headers": {
+          "Host": "iILcZn.cDnmCi.sIte"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20166",
+      "type": "vless",
+      "server": "172.67.182.110",
+      "server_port": 443,
+      "uuid": "b9ad895b-12ac-40fc-a5ac-a5b2a1285001",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "3k.pureboy.eu.org",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "TELEGRAM...PROXY_MTM?ed=2048",
+        "headers": {
+          "Host": "3k.pureboy.eu.org"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20168",
+      "type": "vless",
+      "server": "104.18.220.77",
+      "server_port": 80,
+      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "JBCK6o.mICrosOFts.downLOaD"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20178",
+      "type": "vless",
+      "server": "104.18.200.49",
+      "server_port": 80,
+      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "JBCK6o.mICrosOFts.downLOaD"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20182",
+      "type": "vless",
+      "server": "104.23.99.165",
+      "server_port": 80,
+      "uuid": "efd473fc-20b4-4b5c-bf76-48e12f0f29c1",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/backup",
+        "headers": {
+          "Host": "iILcZn.cDnmCi.sIte"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20190",
       "type": "vless",
       "server": "172.66.47.158",
       "server_port": 8080,
@@ -2013,10 +1738,136 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "%F0%9F%87%BA%F0%9F%87%B8%20(22)",
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20212",
       "type": "vless",
-      "server": "172.67.219.93",
-      "server_port": 2096,
+      "server": "172.67.179.62",
+      "server_port": 80,
+      "uuid": "32a2c364-a814-4285-b1ac-ae34de5b0fda",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "|v2ry_bx|",
+        "headers": {
+          "Host": "ws-h0jgdvq9w43jf2.v2ng.ir"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%B8%F0%9F%87%AASE%20|%20VLESS%20|%20MTN%20|%20224",
+      "type": "vless",
+      "server": "185.146.173.20",
+      "server_port": 8080,
+      "uuid": "2d0c5bf8-53b9-4421-8f9d-eb34c9e4d5c6",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/backup",
+        "headers": {
+          "Host": "QAWDrgrYHuujjIKYHRDed_._.cdn-mci.online"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20228",
+      "type": "vless",
+      "server": "162.159.153.183",
+      "server_port": 8443,
+      "uuid": "60813b9d-aa0e-4a5c-88b8-ed231058e82a",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "pages.20230619.love",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "telegram🇨🇳 @wangcai_8 /?ed=2048",
+        "headers": {
+          "Host": "pages.20230619.love"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%BA%F0%9F%87%B8US%20|%20VLESS%20|%20MTN%20|%20266",
+      "type": "vless",
+      "server": "104.22.60.18",
+      "server_port": 80,
+      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "JBCK6o.mICrosOFts.downLOaD"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20272",
+      "type": "vless",
+      "server": "104.16.123.175",
+      "server_port": 8080,
+      "uuid": "4dd6004c-c710-485c-a70f-3bed83e8540c",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/@Arthas_vpn",
+        "headers": {
+          "Host": "mandlahe.huondadalioshop.ir"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20276",
+      "type": "vless",
+      "server": "172.66.44.201",
+      "server_port": 2053,
       "uuid": "f4cec6cc-6177-423c-90f8-2ad9f0dd996b",
       "flow": "",
       "packet_encoding": "xudp",
@@ -2033,7 +1884,7 @@
       },
       "transport": {
         "type": "ws",
-        "path": "TELEGRAM...vpn.Android2?ed=2048",
+        "path": "/?ed=2048",
         "headers": {
           "Host": "vpnct.arvancode.eu.org"
         },
@@ -2043,9 +1894,207 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "%F0%9F%87%BA%F0%9F%87%B8%20(23)",
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20288",
       "type": "vless",
-      "server": "172.67.193.36",
+      "server": "104.18.203.232",
+      "server_port": 80,
+      "uuid": "3e9910cf-26fb-4b8f-bc8e-5a1fd221b1da",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/gsmxserver",
+        "headers": {
+          "Host": "ws2.gsmvx.com"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20290",
+      "type": "vless",
+      "server": "104.18.78.200",
+      "server_port": 2052,
+      "uuid": "6a5dcb4a-dc17-43e8-9cc5-a5e7d2b63982",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "DLks7W.sHaParAK.bio"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20294",
+      "type": "vless",
+      "server": "172.64.89.170",
+      "server_port": 443,
+      "uuid": "b9ad895b-12ac-40fc-a5ac-a5b2a1285001",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "3k.pureboy.eu.org",
+        "insecure": true,
+        "disable_sni": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "3k.pureboy.eu.org"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20298",
+      "type": "vless",
+      "server": "104.18.27.137",
+      "server_port": 80,
+      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "JBCK6o.mICrosOFts.downLOaD"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20300",
+      "type": "vless",
+      "server": "104.22.51.157",
+      "server_port": 80,
+      "uuid": "97787cac-2572-47a2-a3d3-71364a32272d",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/graphql",
+        "headers": {
+          "Host": "v22.smartyticket.click"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%BA%F0%9F%87%B8US%20|%20VLESS%20|%20MTN%20|%20302",
+      "type": "vless",
+      "server": "173.245.58.133",
+      "server_port": 8080,
+      "uuid": "c2d391d5-9f1e-4721-bd25-b335d14caf07",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/backup",
+        "headers": {
+          "Host": "zo9n2U.cdN-ArvANCLouD.spacE"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20310",
+      "type": "vless",
+      "server": "104.17.225.72",
+      "server_port": 80,
+      "uuid": "efd473fc-20b4-4b5c-bf76-48e12f0f29c1",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/backup",
+        "headers": {
+          "Host": "iILcZn.cDnmCi.sIte"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20330",
+      "type": "vless",
+      "server": "104.17.177.65",
+      "server_port": 80,
+      "uuid": "345fea56-471b-4957-8acd-f7c3bef3f769",
+      "flow": "",
+      "packet_encoding": "xudp",
+      "multiplex": {
+        "enabled": false,
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "JBCK6o.mICrosOFts.downLOaD"
+        },
+        "max_early_data": 0,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "domain_strategy": "ipv4_only"
+    },
+    {
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20334",
+      "type": "vless",
+      "server": "104.21.20.148",
       "server_port": 80,
       "uuid": "4db8fe35-3ee2-4e29-a849-f944de8e1012",
       "flow": "",
@@ -2067,110 +2116,11 @@
       "domain_strategy": "ipv4_only"
     },
     {
-      "tag": "104.27.196.71",
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6CA%20|%20VLESS%20|%20MTN%20|%20352",
       "type": "vless",
-      "server": "104.27.196.71",
-      "server_port": 2052,
-      "uuid": "fab004c8-08a7-447d-8f79-61a02125ab4f",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "R7ngC5.BlacKmasteR.ORG"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "104.27.193.231",
-      "type": "vless",
-      "server": "104.27.193.231",
+      "server": "104.17.225.222",
       "server_port": 80,
-      "uuid": "b13a9e91-60c6-4fab-a982-2db41b13947a",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/backup",
-        "headers": {
-          "Host": "Ir18U8.CDNMCi.sItE"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "%F0%9F%87%BA%F0%9F%87%B8%20(24)",
-      "type": "vless",
-      "server": "172.67.31.117",
-      "server_port": 443,
-      "uuid": "8ca98c98-fb0b-4007-a6e8-c8294e546763",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "srv12.xyzquant.cloud",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/6eenmFpORi4fyf8bW",
-        "headers": {
-          "Host": "srv12.xyzquant.cloud"
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "%F0%9F%87%AC%F0%9F%87%A7%20(2)",
-      "type": "vless",
-      "server": "78.141.198.20",
-      "server_port": 443,
-      "uuid": "01ee3d05-fe72-4353-a802-82b8432f3b43",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "uk-s8.fatvpn.pro",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "%F0%9F%87%BA%F0%9F%87%B8%20(26)",
-      "type": "vless",
-      "server": "104.31.16.160",
-      "server_port": 80,
-      "uuid": "30bacb3e-a515-42bc-9e0b-5241f32e8080",
+      "uuid": "792145b6-bbcd-41b2-bf80-1a17958ce0b7",
       "flow": "",
       "packet_encoding": "xudp",
       "multiplex": {
@@ -2182,614 +2132,10 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "jdodlhsh6djd0.球运动列运20.tech"
+          "Host": "VtqMZs.ShokR.DE"
         },
         "max_early_data": 0,
         "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(2)",
-      "type": "vless",
-      "server": "49.13.82.202",
-      "server_port": 2096,
-      "uuid": "16747acc-95c8-44ba-9b66-3d8a0c035347",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": null,
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(7)",
-      "type": "vless",
-      "server": "104.17.254.239",
-      "server_port": 8443,
-      "uuid": "64f4faca-8387-4511-adab-45300a332d27",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "id067.v2net.work",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": null,
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(8)",
-      "type": "vless",
-      "server": "94.131.120.119",
-      "server_port": 55198,
-      "uuid": "8cf04167-a257-48b4-a550-a8fb9515c68f",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": null
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(9)",
-      "type": "vless",
-      "server": "23.227.38.26",
-      "server_port": 2087,
-      "uuid": "dba0b51a-75e8-4218-86a5-f001312e1ea1",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "kasler.harchishod.top",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": null,
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(10)",
-      "type": "vless",
-      "server": "172.67.193.36",
-      "server_port": 8443,
-      "uuid": "a6238774-2ff8-425d-a093-2f70c364d3d1",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "kasler.harchishod.top",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": null,
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(14)",
-      "type": "vless",
-      "server": "104.24.185.137",
-      "server_port": 2083,
-      "uuid": "dbca2e4e-f572-4fc0-cf40-d48a11530191",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "chykz.ykzchconect.top",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": null,
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(16)",
-      "type": "vless",
-      "server": "49.13.82.202",
-      "server_port": 2096,
-      "uuid": "16747acc-95c8-44ba-9b66-3d8a0c035347",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": null,
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(17)",
-      "type": "vless",
-      "server": "128.140.97.199",
-      "server_port": 52606,
-      "uuid": "bbcac1db-e11c-4e8e-8421-442b910d2231",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(20)",
-      "type": "vless",
-      "server": "146.19.233.85",
-      "server_port": 443,
-      "uuid": "3dfb48db-42c4-4ae6-b39c-90877c732e4a",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "de1.alphav2ray.link",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": null,
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(23)",
-      "type": "vless",
-      "server": "23.227.38.26",
-      "server_port": 2087,
-      "uuid": "dba0b51a-75e8-4218-86a5-f001312e1ea1",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "kasler.harchishod.top",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": null,
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(27)",
-      "type": "vless",
-      "server": "5.75.236.28",
-      "server_port": 443,
-      "uuid": "a25e8ff9-8650-4098-86af-b524e4ec72d8",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "admin2.pythonic-ai.com",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/vYoLL0j3yXajA2rNVYyVkeSUkkM",
-        "headers": {
-          "Host": null
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(29)",
-      "type": "vless",
-      "server": "78.141.198.20",
-      "server_port": 443,
-      "uuid": "01ee3d05-fe72-4353-a802-82b8432f3b43",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "uk-s8.fatvpn.pro",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(35)",
-      "type": "vless",
-      "server": "104.17.254.239",
-      "server_port": 8443,
-      "uuid": "64f4faca-8387-4511-adab-45300a332d27",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "id067.v2net.work",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": null,
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(36)",
-      "type": "vless",
-      "server": "94.131.120.119",
-      "server_port": 55198,
-      "uuid": "8cf04167-a257-48b4-a550-a8fb9515c68f",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": null
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(34)",
-      "type": "vless",
-      "server": "146.19.233.85",
-      "server_port": 443,
-      "uuid": "3dfb48db-42c4-4ae6-b39c-90877c732e4a",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "de1.alphav2ray.link",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": null,
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(37)",
-      "type": "vless",
-      "server": "23.227.38.26",
-      "server_port": 2087,
-      "uuid": "dba0b51a-75e8-4218-86a5-f001312e1ea1",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "kasler.harchishod.top",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": null,
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(38)",
-      "type": "vless",
-      "server": "172.67.193.36",
-      "server_port": 8443,
-      "uuid": "a6238774-2ff8-425d-a093-2f70c364d3d1",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "kasler.harchishod.top",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": null,
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(48)",
-      "type": "vless",
-      "server": "146.19.233.85",
-      "server_port": 443,
-      "uuid": "3dfb48db-42c4-4ae6-b39c-90877c732e4a",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "de1.alphav2ray.link",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": null,
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(43)",
-      "type": "vless",
-      "server": "78.141.198.20",
-      "server_port": 443,
-      "uuid": "01ee3d05-fe72-4353-a802-82b8432f3b43",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "uk-s8.fatvpn.pro",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(49)",
-      "type": "vless",
-      "server": "104.17.254.239",
-      "server_port": 8443,
-      "uuid": "64f4faca-8387-4511-adab-45300a332d27",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "id067.v2net.work",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": null,
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(44)",
-      "type": "vless",
-      "server": "49.13.82.202",
-      "server_port": 2096,
-      "uuid": "16747acc-95c8-44ba-9b66-3d8a0c035347",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": null,
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(45)",
-      "type": "vless",
-      "server": "128.140.97.199",
-      "server_port": 52606,
-      "uuid": "bbcac1db-e11c-4e8e-8421-442b910d2231",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(47)",
-      "type": "vless",
-      "server": "161.35.17.153",
-      "server_port": 44173,
-      "uuid": "587337b4-7cc9-4d2e-bee7-df81efb28ef0",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": null
-        },
-        "max_early_data": 0,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "domain_strategy": "ipv4_only"
-    },
-    {
-      "tag": "SH%CE%9E%D0%AFVIN%E2%84%A2%20(52)",
-      "type": "vless",
-      "server": "172.67.193.36",
-      "server_port": 8443,
-      "uuid": "a6238774-2ff8-425d-a093-2f70c364d3d1",
-      "flow": "",
-      "packet_encoding": "xudp",
-      "multiplex": {
-        "enabled": false,
-        "protocol": "smux",
-        "max_streams": 32
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "kasler.harchishod.top",
-        "insecure": true,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": null,
-        "idle_timeout": "15s",
-        "ping_timeout": "15s",
-        "permit_without_stream": false
       },
       "domain_strategy": "ipv4_only"
     },
