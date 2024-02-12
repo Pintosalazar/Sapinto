@@ -93,7 +93,7 @@
                             "::/0"
                         ],
  "keepAlive": 20,
-                        "endpoint": "162.159.192.107:8319"
+                        "endpoint": "engage.cloudflareclient.com:5956"
                     }
 
                 ],
